@@ -28,16 +28,16 @@ for (const [collectionId, collectionData] of Object.entries(vouchers)) {
 
                         // Create a new object with only the required fields
                         const cleanedVoucher = {
+                            claim_start_time: voucherDetails.time_info.claim_start_time,
+                            start_time: voucherDetails.time_info.start_time,
                             voucher_code: voucherCode,
+                            percentage: voucherDetails.reward_info.percentage,
+                            min_spend: voucherDetails.reward_info.min_spend,
+                            cap: voucherDetails.reward_info.cap,
+                            link: `https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=${promotionId}&signature=${signature}`,
                             promotion_id: promotionId,
                             signature: signature,
-                            link: `https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=${promotionId}&signature=${signature}`,
-                            min_spend: voucherDetails.reward_info.min_spend,
-                            percentage: voucherDetails.reward_info.percentage,
-                            cap: voucherDetails.reward_info.cap,
-                            claim_start_time: voucherDetails.time_info.claim_start_time,
                             claim_end_time: voucherDetails.time_info.claim_end_time,
-                            start_time: voucherDetails.time_info.start_time,
                             end_time: voucherDetails.time_info.end_time,
                             has_expired: voucherDetails.time_info.has_expired,
                         };
