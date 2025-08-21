@@ -26,6 +26,11 @@ for (const [collectionId, collectionData] of Object.entries(vouchers)) {
                         const promotionId = voucherDetails.voucher_identifier.promotion_id;
                         const signature = voucherDetails.voucher_identifier.signature;
 
+                        // Skip if percentage is null, undefined, or 0
+                        if (!voucherDetails.reward_info.percentage) {
+                            continue;
+                        }
+
                         // Create a new object with only the required fields
                         const cleanedVoucher = {
                             start_time: voucherDetails.time_info.start_time,
@@ -52,7 +57,6 @@ for (const [collectionId, collectionData] of Object.entries(vouchers)) {
 }
 
 // Write the final cleanedVouchers object to a new JSON file
-// The 'null, 2' argument formats the JSON for better readability (2-space indentation)
 fs.writeFileSync('cleaned_vouchers.json', JSON.stringify(cleanedVouchers, null, 2));
 
 console.log('Successfully cleaned data and saved to cleaned_vouchers.json');
