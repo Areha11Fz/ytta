@@ -20,31 +20,34 @@ for (const [collectionId, collectionData] of Object.entries(vouchers)) {
                 for (const voucherWrapper of item.vouchers) {
                     const voucherDetails = voucherWrapper.voucher;
 
-                    // Proceed if the main voucher detail object exists
                     if (voucherDetails) {
-                        const voucherCode = voucherDetails.voucher_identifier.voucher_code;
-                        const promotionId = voucherDetails.voucher_identifier.promotion_id;
-                        const signature = voucherDetails.voucher_identifier.signature;
+                        const { voucher_identifier, reward_info, time_info, quota_info } = voucherDetails;
 
-                        // Skip if percentage is null, undefined, or 0
-                        if (!voucherDetails.reward_info.percentage) {
+                        // Skip invalid vouchers
+                        if (
+                            !reward_info.percentage || // null, undefined, or 0
+                            (quota_info && (
+                                quota_info.fully_used === true ||
+                                quota_info.fully_redeemed === true ||
+                                quota_info.disabled === true
+                            ))
+                        ) {
                             continue;
                         }
 
-                        // Create a new object with only the required fields
                         const cleanedVoucher = {
-                            start_time: voucherDetails.time_info.start_time,
-                            claim_start_time: voucherDetails.time_info.claim_start_time,
-                            voucher_code: voucherCode,
-                            min_spend: voucherDetails.reward_info.min_spend,
-                            percentage: voucherDetails.reward_info.percentage,
-                            cap: voucherDetails.reward_info.cap,
-                            link: `https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=${promotionId}&signature=${signature}`,
-                            promotion_id: promotionId,
-                            signature: signature,
-                            claim_end_time: voucherDetails.time_info.claim_end_time,
-                            end_time: voucherDetails.time_info.end_time,
-                            has_expired: voucherDetails.time_info.has_expired,
+                            start_time: time_info.start_time,
+                            claim_start_time: time_info.claim_start_time,
+                            voucher_code: voucher_identifier.voucher_code,
+                            min_spend: reward_info.min_spend,
+                            percentage: reward_info.percentage,
+                            cap: reward_info.cap,
+                            link: `https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=${voucher_identifier.promotion_id}&signature=${voucher_identifier.signature}`,
+                            promotion_id: voucher_identifier.promotion_id,
+                            signature: voucher_identifier.signature,
+                            claim_end_time: time_info.claim_end_time,
+                            end_time: time_info.end_time,
+                            has_expired: time_info.has_expired,
                         };
 
                         // Add the cleaned voucher object to its collection array

@@ -1,20 +1,5 @@
 {
-  "12972558984": [
-    {
-      "start_time": 1754931600,
-      "claim_start_time": 1754931600,
-      "voucher_code": "JAJANPICKUP185",
-      "min_spend": 6000000000,
-      "percentage": 40,
-      "cap": 3500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217950405509120&signature=01e63724e9bc0529d39cef98d842585470ec199709c7edc07c62de4805966121",
-      "promotion_id": 1217950405509120,
-      "signature": "01e63724e9bc0529d39cef98d842585470ec199709c7edc07c62de4805966121",
-      "claim_end_time": 1755017999,
-      "end_time": 1755017999,
-      "has_expired": true
-    }
-  ],
+  "12972558984": [],
   "12972565000": [],
   "12972586248": [
     {
@@ -46,54 +31,9 @@
       "has_expired": false
     }
   ],
-  "12973059336": [
-    {
-      "start_time": 1755018000,
-      "claim_start_time": 1755018000,
-      "voucher_code": "DD5045RBKCJL",
-      "min_spend": 4500000000,
-      "percentage": 17,
-      "cap": 4500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1216545246298112&signature=7592168f0bfa55d201cb4848c123c177ca90c3461ae4e8170f23d27b28afd5ba",
-      "promotion_id": 1216545246298112,
-      "signature": "7592168f0bfa55d201cb4848c123c177ca90c3461ae4e8170f23d27b28afd5ba",
-      "claim_end_time": 1755061140,
-      "end_time": 1755061140,
-      "has_expired": true
-    }
-  ],
-  "12972545416": [
-    {
-      "start_time": 1754499600,
-      "claim_start_time": 1754499600,
-      "voucher_code": "DAHSYATPU528",
-      "min_spend": 3000000000,
-      "percentage": 40,
-      "cap": 1300000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212699800125460&signature=ae38170c0cded3a60016878f1eefcd90372bae9175bb4c6d16cfcb538fc0e628",
-      "promotion_id": 1212699800125460,
-      "signature": "ae38170c0cded3a60016878f1eefcd90372bae9175bb4c6d16cfcb538fc0e628",
-      "claim_end_time": 1754585999,
-      "end_time": 1754585999,
-      "has_expired": true
-    }
-  ],
-  "12972550792": [
-    {
-      "start_time": 1755403200,
-      "claim_start_time": 1755403200,
-      "voucher_code": "PREHYPE9",
-      "min_spend": 0,
-      "percentage": 90,
-      "cap": 1700000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1221519019753472&signature=10c8a114380df249abde3aaec88a054e5907310d621ca85a13f2fc9eca56579f",
-      "promotion_id": 1221519019753472,
-      "signature": "10c8a114380df249abde3aaec88a054e5907310d621ca85a13f2fc9eca56579f",
-      "claim_end_time": 1755449999,
-      "end_time": 1755449999,
-      "has_expired": true
-    }
-  ],
+  "12973059336": [],
+  "12972545416": [],
+  "12972550792": [],
   "12973061000": [
     {
       "start_time": 1755234000,
@@ -135,20 +75,6 @@
       "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1220760547639296&signature=b6a2b8fd1ae8343eee348c65ecd65066539073b1eed0414083d012225df237e9",
       "promotion_id": 1220760547639296,
       "signature": "b6a2b8fd1ae8343eee348c65ecd65066539073b1eed0414083d012225df237e9",
-      "claim_end_time": 1755795540,
-      "end_time": 1755795540,
-      "has_expired": true
-    },
-    {
-      "start_time": 1755709200,
-      "claim_start_time": 0,
-      "voucher_code": "KAOPDTB81",
-      "min_spend": 10000000000,
-      "percentage": 10,
-      "cap": 1000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1220026292125704&signature=6cb2310a429e758400613cb432873534af679f2e0b020d9c41f6d12485bc9d39",
-      "promotion_id": 1220026292125704,
-      "signature": "6cb2310a429e758400613cb432873534af679f2e0b020d9c41f6d12485bc9d39",
       "claim_end_time": 1755795540,
       "end_time": 1755795540,
       "has_expired": true
@@ -342,175 +268,14 @@
       "has_expired": false
     }
   ],
-  "12972579592": [
-    {
-      "start_time": 1755252000,
-      "claim_start_time": 1755252000,
-      "voucher_code": "NU1DC5010AUG20252",
-      "min_spend": 1000000000,
-      "percentage": 50,
-      "cap": 1000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222868822540288&signature=7c482927c0c541fc7e3f748b1e9ab6e0c25e7a87f137e8a2f7fb254e84f38378",
-      "promotion_id": 1222868822540288,
-      "signature": "7c482927c0c541fc7e3f748b1e9ab6e0c25e7a87f137e8a2f7fb254e84f38378",
-      "claim_end_time": 1755583380,
-      "end_time": 1755583380,
-      "has_expired": true
-    }
-  ],
-  "12973089160": [
-    {
-      "start_time": 1755435600,
-      "claim_start_time": 1755435600,
-      "voucher_code": "LIVE-727551749541330944",
-      "min_spend": 2000000000,
-      "percentage": 50,
-      "cap": 1000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217117995548672&signature=f2350e0b271ca6fa0958c1c547b2ed6c3e76d108e6b3ce88dac5213e0e4dc48a",
-      "promotion_id": 1217117995548672,
-      "signature": "f2350e0b271ca6fa0958c1c547b2ed6c3e76d108e6b3ce88dac5213e0e4dc48a",
-      "claim_end_time": 1755449940,
-      "end_time": 1755449940,
-      "has_expired": true
-    },
-    {
-      "start_time": 1755435600,
-      "claim_start_time": 1755435600,
-      "voucher_code": "LIVE-727547634929107968",
-      "min_spend": 10000000000,
-      "percentage": 15,
-      "cap": 3000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217113977405444&signature=8d1652411edc8a4c4b7de92255d78374db58c3321c3c647afcef1bbf39fa62ad",
-      "promotion_id": 1217113977405444,
-      "signature": "8d1652411edc8a4c4b7de92255d78374db58c3321c3c647afcef1bbf39fa62ad",
-      "claim_end_time": 1755449940,
-      "end_time": 1755449940,
-      "has_expired": true
-    }
-  ],
-  "12972555272": [
-    {
-      "start_time": 1754586000,
-      "claim_start_time": 1753981200,
-      "voucher_code": "MRVCCBFASH2550RBAUG",
-      "min_spend": 10000000000,
-      "percentage": 10,
-      "cap": 5000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1211384952799232&signature=763ebe9a2729c85c8be40f31f138ce7e89085f08f3b3809fb85e9b698db17fc1",
-      "promotion_id": 1211384952799232,
-      "signature": "763ebe9a2729c85c8be40f31f138ce7e89085f08f3b3809fb85e9b698db17fc1",
-      "claim_end_time": 1754672399,
-      "end_time": 1754672399,
-      "has_expired": true
-    }
-  ],
-  "12973059720": [
-    {
-      "start_time": 1755104400,
-      "claim_start_time": 1755104400,
-      "voucher_code": "DD5045RBM508",
-      "min_spend": 4500000000,
-      "percentage": 17,
-      "cap": 4500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1216545254948864&signature=8557856b081b65baebcd78250d208f3e6beff0a679ee4f1dc473c4fec90b48dc",
-      "promotion_id": 1216545254948864,
-      "signature": "8557856b081b65baebcd78250d208f3e6beff0a679ee4f1dc473c4fec90b48dc",
-      "claim_end_time": 1755147540,
-      "end_time": 1755147540,
-      "has_expired": true
-    }
-  ],
+  "12972579592": [],
+  "12973089160": [],
+  "12972555272": [],
+  "12973059720": [],
   "12972476808": [],
-  "12973058056": [
-    {
-      "start_time": 1753981200,
-      "claim_start_time": 1753981200,
-      "voucher_code": "SPLXPSWT082HM",
-      "min_spend": 150000000000,
-      "percentage": 5,
-      "cap": 80000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1210612403683328&signature=d420af2eaa6d9982de2c5df29e93e4fec1bc8ee417fd1e2e26fbaa6bbffcf63e",
-      "promotion_id": 1210612403683328,
-      "signature": "d420af2eaa6d9982de2c5df29e93e4fec1bc8ee417fd1e2e26fbaa6bbffcf63e",
-      "claim_end_time": 1756659540,
-      "end_time": 1756659540,
-      "has_expired": false
-    },
-    {
-      "start_time": 1753981200,
-      "claim_start_time": 1753981200,
-      "voucher_code": "SPLXHOTEL08W6D",
-      "min_spend": 35000000000,
-      "percentage": 5,
-      "cap": 80000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1210612404207620&signature=60560165c90bb7a6aeec2ca1d9bf2c597967df38a8a3b6ac6cc1f9c6b9c40d44",
-      "promotion_id": 1210612404207620,
-      "signature": "60560165c90bb7a6aeec2ca1d9bf2c597967df38a8a3b6ac6cc1f9c6b9c40d44",
-      "claim_end_time": 1756659540,
-      "end_time": 1756659540,
-      "has_expired": false
-    },
-    {
-      "start_time": 1753981200,
-      "claim_start_time": 1753981200,
-      "voucher_code": "SPLXKRETABUS082U",
-      "min_spend": 25000000000,
-      "percentage": 5,
-      "cap": 45000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1210612404207624&signature=5b525bda56a2e98839325aae41f6dc86b79983da97cdb9bdee1b01d461fbdf79",
-      "promotion_id": 1210612404207624,
-      "signature": "5b525bda56a2e98839325aae41f6dc86b79983da97cdb9bdee1b01d461fbdf79",
-      "claim_end_time": 1756659540,
-      "end_time": 1756659540,
-      "has_expired": false
-    }
-  ],
-  "12972561288": [
-    {
-      "start_time": 1754974800,
-      "claim_start_time": 1754974800,
-      "voucher_code": "LIVE-727551723771527168",
-      "min_spend": 2000000000,
-      "percentage": 50,
-      "cap": 1000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217117970513920&signature=7e2c637e8c6aaec90a0811cfde3a350d2a7e61adcf91237216cdf4cae2aef5a2",
-      "promotion_id": 1217117970513920,
-      "signature": "7e2c637e8c6aaec90a0811cfde3a350d2a7e61adcf91237216cdf4cae2aef5a2",
-      "claim_end_time": 1754982000,
-      "end_time": 1754982000,
-      "has_expired": true
-    },
-    {
-      "start_time": 1755003600,
-      "claim_start_time": 1755003600,
-      "voucher_code": "LIVE-727551740951396352",
-      "min_spend": 2000000000,
-      "percentage": 50,
-      "cap": 1000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217117987553280&signature=eddf166a1985ff6e1ab8e6bf2644f88eed32b22504a4a22feab299af0e725fa1",
-      "promotion_id": 1217117987553280,
-      "signature": "eddf166a1985ff6e1ab8e6bf2644f88eed32b22504a4a22feab299af0e725fa1",
-      "claim_end_time": 1755017940,
-      "end_time": 1755017940,
-      "has_expired": true
-    }
-  ],
-  "12972552456": [
-    {
-      "start_time": 1754845200,
-      "claim_start_time": 1754845200,
-      "voucher_code": "JAJANLAGI102",
-      "min_spend": 0,
-      "percentage": 100,
-      "cap": 1800000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217950397251600&signature=3f8672bbf5699142ed5f7cfcd300340df4621ba58dd1bdde0acf5af60fcf5f21",
-      "promotion_id": 1217950397251600,
-      "signature": "3f8672bbf5699142ed5f7cfcd300340df4621ba58dd1bdde0acf5af60fcf5f21",
-      "claim_end_time": 1755449999,
-      "end_time": 1755449999,
-      "has_expired": true
-    }
-  ],
+  "12973058056": [],
+  "12972561288": [],
+  "12972552456": [],
   "12972571784": [
     {
       "start_time": 1755450000,
@@ -544,22 +309,7 @@
       "has_expired": false
     }
   ],
-  "12972546184": [
-    {
-      "start_time": 1755277200,
-      "claim_start_time": 1755277200,
-      "voucher_code": "JAJANPICKUP194",
-      "min_spend": 10000000000,
-      "percentage": 30,
-      "cap": 10000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217950413897736&signature=4bbeacc0b15fd900ff71afad6026ada752d723b4dd9ca951dab87e5ddce5b3ff",
-      "promotion_id": 1217950413897736,
-      "signature": "4bbeacc0b15fd900ff71afad6026ada752d723b4dd9ca951dab87e5ddce5b3ff",
-      "claim_end_time": 1755363599,
-      "end_time": 1755363599,
-      "has_expired": true
-    }
-  ],
+  "12972546184": [],
   "12973079304": [
     {
       "start_time": 1755450000,
@@ -576,22 +326,7 @@
       "has_expired": false
     }
   ],
-  "12972553608": [
-    {
-      "start_time": 1755450000,
-      "claim_start_time": 1755450000,
-      "voucher_code": "DISKONPICKUP396",
-      "min_spend": 0,
-      "percentage": 12,
-      "cap": 5000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222978981740544&signature=f8277a243f7a84b85c29d99c764f464f0bbb5e1185aa85c4fc231846dddb711b",
-      "promotion_id": 1222978981740544,
-      "signature": "f8277a243f7a84b85c29d99c764f464f0bbb5e1185aa85c4fc231846dddb711b",
-      "claim_end_time": 1755536399,
-      "end_time": 1755536399,
-      "has_expired": true
-    }
-  ],
+  "12972553608": [],
   "12972581256": [
     {
       "start_time": 1755363600,
@@ -862,22 +597,7 @@
       "has_expired": false
     }
   ],
-  "12972572040": [
-    {
-      "start_time": 1755252000,
-      "claim_start_time": 1755252000,
-      "voucher_code": "NU1DC5010AUG20252I",
-      "min_spend": 1000000000,
-      "percentage": 50,
-      "cap": 1000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222862791131148&signature=92e0304f5f088b6b39de9688d8cdb066915425e69b7f74e371086ca2ab5613c6",
-      "promotion_id": 1222862791131148,
-      "signature": "92e0304f5f088b6b39de9688d8cdb066915425e69b7f74e371086ca2ab5613c6",
-      "claim_end_time": 1755583380,
-      "end_time": 1755583380,
-      "has_expired": true
-    }
-  ],
+  "12972572040": [],
   "12972558344": [],
   "12972576776": [
     {
@@ -896,22 +616,7 @@
     }
   ],
   "12973083144": [],
-  "12972544008": [
-    {
-      "start_time": 1754240400,
-      "claim_start_time": 1754240400,
-      "voucher_code": "DAHSYATPU507",
-      "min_spend": 3000000000,
-      "percentage": 50,
-      "cap": 1300000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212699799601196&signature=ea59ba284bb6f3377605773beba16cdbe0e3caaf522b54723f93f3f85cee09c8",
-      "promotion_id": 1212699799601196,
-      "signature": "ea59ba284bb6f3377605773beba16cdbe0e3caaf522b54723f93f3f85cee09c8",
-      "claim_end_time": 1754326799,
-      "end_time": 1754326799,
-      "has_expired": true
-    }
-  ],
+  "12972544008": [],
   "12973106440": [
     {
       "start_time": 1756098000,
@@ -928,22 +633,7 @@
       "has_expired": false
     }
   ],
-  "12972546056": [
-    {
-      "start_time": 1754672400,
-      "claim_start_time": 1754672400,
-      "voucher_code": "DAHSYATPU536",
-      "min_spend": 3000000000,
-      "percentage": 50,
-      "cap": 1500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212699825029120&signature=cac9c8b49178973a357e7f0cb4c20a342ecd442a2723d1b322b23fb3607835af",
-      "promotion_id": 1212699825029120,
-      "signature": "cac9c8b49178973a357e7f0cb4c20a342ecd442a2723d1b322b23fb3607835af",
-      "claim_end_time": 1754758799,
-      "end_time": 1754758799,
-      "has_expired": true
-    }
-  ],
+  "12972546056": [],
   "12973058696": [
     {
       "start_time": 1755018000,
@@ -1070,48 +760,6 @@
       "claim_end_time": 1756659540,
       "end_time": 1756659540,
       "has_expired": false
-    },
-    {
-      "start_time": 1754845200,
-      "claim_start_time": 1754845200,
-      "voucher_code": "XTRABEAU15100RB0811",
-      "min_spend": 10000000000,
-      "percentage": 15,
-      "cap": 10000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217243531067392&signature=3546a3b2d96e1543762ce137675fedec70623db0038c6a9f3df9ef469bb5f00d",
-      "promotion_id": 1217243531067392,
-      "signature": "3546a3b2d96e1543762ce137675fedec70623db0038c6a9f3df9ef469bb5f00d",
-      "claim_end_time": 1755449999,
-      "end_time": 1755449999,
-      "has_expired": true
-    },
-    {
-      "start_time": 1754845200,
-      "claim_start_time": 1754845200,
-      "voucher_code": "XTRA10100RB0807X",
-      "min_spend": 7000000000,
-      "percentage": 10,
-      "cap": 10000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217939097796608&signature=8d2b77a3f7d7a7db5e9b0a2c64894c237e71a66ec020ae38ab45c1477a0be25d",
-      "promotion_id": 1217939097796608,
-      "signature": "8d2b77a3f7d7a7db5e9b0a2c64894c237e71a66ec020ae38ab45c1477a0be25d",
-      "claim_end_time": 1755449999,
-      "end_time": 1755449999,
-      "has_expired": true
-    },
-    {
-      "start_time": 1754845200,
-      "claim_start_time": 1754845200,
-      "voucher_code": "XTRA4500RB0811",
-      "min_spend": 10000000000,
-      "percentage": 4,
-      "cap": 50000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217243531198468&signature=10b70c9640c2ac2e8487cd3a59be8519c990ce066d5c41b481d4931d87a45e1c",
-      "promotion_id": 1217243531198468,
-      "signature": "10b70c9640c2ac2e8487cd3a59be8519c990ce066d5c41b481d4931d87a45e1c",
-      "claim_end_time": 1755449999,
-      "end_time": 1755449999,
-      "has_expired": true
     }
   ],
   "12972547848": [
@@ -1131,69 +779,10 @@
     }
   ],
   "12972555016": [],
-  "12973059080": [
-    {
-      "start_time": 1754917200,
-      "claim_start_time": 1754917200,
-      "voucher_code": "LIVE-727551740968173568",
-      "min_spend": 2000000000,
-      "percentage": 50,
-      "cap": 1000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217117987160064&signature=20114564a8f92200b9add18f7378f57be59832dd05fbbe92c9335964214e634f",
-      "promotion_id": 1217117987160064,
-      "signature": "20114564a8f92200b9add18f7378f57be59832dd05fbbe92c9335964214e634f",
-      "claim_end_time": 1754931540,
-      "end_time": 1754931540,
-      "has_expired": true
-    },
-    {
-      "start_time": 1754917200,
-      "claim_start_time": 1754917200,
-      "voucher_code": "LIVE-727547626339172352",
-      "min_spend": 10000000000,
-      "percentage": 15,
-      "cap": 3000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217113969147904&signature=3f28aa7be6b71a5876889f47ba839accfc316c243422bafefad66d1f8b984bb8",
-      "promotion_id": 1217113969147904,
-      "signature": "3f28aa7be6b71a5876889f47ba839accfc316c243422bafefad66d1f8b984bb8",
-      "claim_end_time": 1754931540,
-      "end_time": 1754931540,
-      "has_expired": true
-    }
-  ],
-  "12972545288": [
-    {
-      "start_time": 1754499600,
-      "claim_start_time": 1754499600,
-      "voucher_code": "DAHSYATPU525",
-      "min_spend": 3000000000,
-      "percentage": 50,
-      "cap": 1300000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212699800256512&signature=d2713d11a05fd54dacaa50d81c42a3d9dd00d7aeca672d0ed5c1fcd0ced408ee",
-      "promotion_id": 1212699800256512,
-      "signature": "d2713d11a05fd54dacaa50d81c42a3d9dd00d7aeca672d0ed5c1fcd0ced408ee",
-      "claim_end_time": 1754585999,
-      "end_time": 1754585999,
-      "has_expired": true
-    }
-  ],
+  "12973059080": [],
+  "12972545288": [],
   "12972476552": [],
-  "12972556296": [
-    {
-      "start_time": 1754845200,
-      "claim_start_time": 1754845200,
-      "voucher_code": "SPLLOKAL08",
-      "min_spend": 10000000000,
-      "percentage": 8,
-      "cap": 15000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1209876797734912&signature=5b137f986b8e21ca180f9b6f7c6a19eb82e512188ede5972419fe17eadb4f253",
-      "promotion_id": 1209876797734912,
-      "signature": "5b137f986b8e21ca180f9b6f7c6a19eb82e512188ede5972419fe17eadb4f253",
-      "claim_end_time": 1755449940,
-      "end_time": 1755449940,
-      "has_expired": true
-    }
-  ],
+  "12972556296": [],
   "12972572424": [
     {
       "start_time": 1755450000,
@@ -1229,38 +818,8 @@
   "12973058568": [],
   "12972553352": [],
   "12972550664": [],
-  "12972545160": [
-    {
-      "start_time": 1754499600,
-      "claim_start_time": 1754499600,
-      "voucher_code": "DAHSYATPU524",
-      "min_spend": 3000000000,
-      "percentage": 50,
-      "cap": 1500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212699791736876&signature=99ecd049aa53e51a9e6616342eed8c807e8a0fd7fa4c7fef3217140c4bd2bd62",
-      "promotion_id": 1212699791736876,
-      "signature": "99ecd049aa53e51a9e6616342eed8c807e8a0fd7fa4c7fef3217140c4bd2bd62",
-      "claim_end_time": 1754585999,
-      "end_time": 1754585999,
-      "has_expired": true
-    }
-  ],
-  "12972559752": [
-    {
-      "start_time": 1754758800,
-      "claim_start_time": 1754758800,
-      "voucher_code": "DAHSYATPU544",
-      "min_spend": 4000000000,
-      "percentage": 40,
-      "cap": 2000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212699790950412&signature=e7c919d2c84e210e6ec48f6a250fd432ccdacea8f7696083d6b1346be8f73ee9",
-      "promotion_id": 1212699790950412,
-      "signature": "e7c919d2c84e210e6ec48f6a250fd432ccdacea8f7696083d6b1346be8f73ee9",
-      "claim_end_time": 1754845199,
-      "end_time": 1754845199,
-      "has_expired": true
-    }
-  ],
+  "12972545160": [],
+  "12972559752": [],
   "12972558088": [],
   "12973072264": [
     {
@@ -1278,22 +837,7 @@
       "has_expired": false
     }
   ],
-  "12972565128": [
-    {
-      "start_time": 1755450000,
-      "claim_start_time": 1755450000,
-      "voucher_code": "DAHSYATPU590",
-      "min_spend": 3000000000,
-      "percentage": 50,
-      "cap": 1500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222978973089804&signature=ecf6d65ceb2722c844d2d23699de79a95a40e82ddc541eca71c236d5c4e11ed9",
-      "promotion_id": 1222978973089804,
-      "signature": "ecf6d65ceb2722c844d2d23699de79a95a40e82ddc541eca71c236d5c4e11ed9",
-      "claim_end_time": 1755536399,
-      "end_time": 1755536399,
-      "has_expired": true
-    }
-  ],
+  "12972565128": [],
   "12972566920": [
     {
       "start_time": 1755968400,
@@ -1388,53 +932,9 @@
       "has_expired": false
     }
   ],
-  "12972554504": [
-    {
-      "start_time": 1754629200,
-      "claim_start_time": 1754629200,
-      "voucher_code": "LIVE-726734425854836736",
-      "min_spend": 2000000000,
-      "percentage": 100,
-      "cap": 2000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1216319827623936&signature=5a8d1c0cf24c094f1c4bc7a58f24c9c9f1f8d6e35e2eacf19c6b7c2b6b9189dc",
-      "promotion_id": 1216319827623936,
-      "signature": "5a8d1c0cf24c094f1c4bc7a58f24c9c9f1f8d6e35e2eacf19c6b7c2b6b9189dc",
-      "claim_end_time": 1754636400,
-      "end_time": 1754636400,
-      "has_expired": true
-    }
-  ],
+  "12972554504": [],
   "12972557832": [],
-  "12972563976": [
-    {
-      "start_time": 1755349200,
-      "claim_start_time": 1755349200,
-      "voucher_code": "LIVE-727551749558108160",
-      "min_spend": 2000000000,
-      "percentage": 50,
-      "cap": 1000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217117995286528&signature=fc155eb2a5bdb244de868391f48aa0693c9d4226f0bffe2e36f9e997894a948c",
-      "promotion_id": 1217117995286528,
-      "signature": "fc155eb2a5bdb244de868391f48aa0693c9d4226f0bffe2e36f9e997894a948c",
-      "claim_end_time": 1755363540,
-      "end_time": 1755363540,
-      "has_expired": true
-    },
-    {
-      "start_time": 1755349200,
-      "claim_start_time": 1755349200,
-      "voucher_code": "LIVE-727547634929107456",
-      "min_spend": 10000000000,
-      "percentage": 15,
-      "cap": 3000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217113977405440&signature=91203c9cd5a3c7fee3aec91e82b307ec5e20d5b633ca7569d719070afe454cd2",
-      "promotion_id": 1217113977405440,
-      "signature": "91203c9cd5a3c7fee3aec91e82b307ec5e20d5b633ca7569d719070afe454cd2",
-      "claim_end_time": 1755363540,
-      "end_time": 1755363540,
-      "has_expired": true
-    }
-  ],
+  "12972563976": [],
   "12973073032": [
     {
       "start_time": 1755450000,
@@ -1451,22 +951,7 @@
       "has_expired": false
     }
   ],
-  "12973057672": [
-    {
-      "start_time": 1755363600,
-      "claim_start_time": 1755363600,
-      "voucher_code": "DISKONPICKUP391",
-      "min_spend": 0,
-      "percentage": 14,
-      "cap": 5000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217950422679616&signature=fa6afef5e08138ed0c6ff34c40c90175d5a9a01de96bddc148d47db637789379",
-      "promotion_id": 1217950422679616,
-      "signature": "fa6afef5e08138ed0c6ff34c40c90175d5a9a01de96bddc148d47db637789379",
-      "claim_end_time": 1755449999,
-      "end_time": 1755449999,
-      "has_expired": true
-    }
-  ],
+  "12973057672": [],
   "12972581000": [
     {
       "start_time": 1755759840,
@@ -1819,22 +1304,7 @@
       "has_expired": true
     }
   ],
-  "12972546824": [
-    {
-      "start_time": 1755190800,
-      "claim_start_time": 1755190800,
-      "voucher_code": "SBDOPPOD302",
-      "min_spend": 200000000000,
-      "percentage": 10,
-      "cap": 30000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1215671841472512&signature=e55a64940d53d743d02dd267aac39462ba8f4057d72ebe01616880a2bb09f505",
-      "promotion_id": 1215671841472512,
-      "signature": "e55a64940d53d743d02dd267aac39462ba8f4057d72ebe01616880a2bb09f505",
-      "claim_end_time": 1755277140,
-      "end_time": 1755277140,
-      "has_expired": true
-    }
-  ],
+  "12972546824": [],
   "12973095048": [
     {
       "start_time": 1756054800,
@@ -1928,22 +1398,7 @@
       "has_expired": false
     }
   ],
-  "12973060104": [
-    {
-      "start_time": 1755190800,
-      "claim_start_time": 1755190800,
-      "voucher_code": "DD5045RB76MA",
-      "min_spend": 4500000000,
-      "percentage": 17,
-      "cap": 4500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1216545254948868&signature=9e9fc632d71beed005afd15dadccd6eec4628a75150bd14c5c6aef1f6379d034",
-      "promotion_id": 1216545254948868,
-      "signature": "9e9fc632d71beed005afd15dadccd6eec4628a75150bd14c5c6aef1f6379d034",
-      "claim_end_time": 1755233940,
-      "end_time": 1755233940,
-      "has_expired": true
-    }
-  ],
+  "12973060104": [],
   "12972573960": [
     {
       "start_time": 1756141200,
@@ -1974,22 +1429,7 @@
       "has_expired": false
     }
   ],
-  "12972551560": [
-    {
-      "start_time": 1755320400,
-      "claim_start_time": 1755320400,
-      "voucher_code": "LIVE-727551732361461760",
-      "min_spend": 2000000000,
-      "percentage": 50,
-      "cap": 1000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217117978771456&signature=085aae7eb4b249fa6dbd13d724d64fecf371b4cdb84d922ece8928e8e67be542",
-      "promotion_id": 1217117978771456,
-      "signature": "085aae7eb4b249fa6dbd13d724d64fecf371b4cdb84d922ece8928e8e67be542",
-      "claim_end_time": 1755327600,
-      "end_time": 1755327600,
-      "has_expired": true
-    }
-  ],
+  "12972551560": [],
   "12973060872": [
     {
       "start_time": 1754629200,
@@ -2594,22 +2034,7 @@
       "has_expired": true
     }
   ],
-  "12972572168": [
-    {
-      "start_time": 1755496800,
-      "claim_start_time": 1755496800,
-      "voucher_code": "DCF8100K0818A",
-      "min_spend": 10000000000,
-      "percentage": 8,
-      "cap": 10000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1225006105772032&signature=51096a22a2da33e1c3391c37729518dfbcf089953f70ac77816376aad4b8c27a",
-      "promotion_id": 1225006105772032,
-      "signature": "51096a22a2da33e1c3391c37729518dfbcf089953f70ac77816376aad4b8c27a",
-      "claim_end_time": 1755536399,
-      "end_time": 1755536399,
-      "has_expired": true
-    }
-  ],
+  "12972572168": [],
   "12973073800": [
     {
       "start_time": 1756486800,
@@ -2655,22 +2080,7 @@
     }
   ],
   "12973058440": [],
-  "12972569864": [
-    {
-      "start_time": 1755622800,
-      "claim_start_time": 1755622800,
-      "voucher_code": "DISKONPICKUP402",
-      "min_spend": 0,
-      "percentage": 17,
-      "cap": 5000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222978956574744&signature=9b5fd275045c00b838de4bb7bab0371536ccc3fa8b1c645b7af513cbb478c78c",
-      "promotion_id": 1222978956574744,
-      "signature": "9b5fd275045c00b838de4bb7bab0371536ccc3fa8b1c645b7af513cbb478c78c",
-      "claim_end_time": 1755709199,
-      "end_time": 1755709199,
-      "has_expired": true
-    }
-  ],
+  "12972569864": [],
   "12973104392": [
     {
       "start_time": 1756184400,
@@ -2701,22 +2111,7 @@
       "has_expired": false
     }
   ],
-  "12972554632": [
-    {
-      "start_time": 1754614800,
-      "claim_start_time": 1754614800,
-      "voucher_code": "LIVE-726734425821282304",
-      "min_spend": 2000000000,
-      "percentage": 100,
-      "cap": 2000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1216319828279296&signature=effbc31641c41955abe1f741e4cc08773dc01968b1ac8b3cd1ccd6a17aeabd27",
-      "promotion_id": 1216319828279296,
-      "signature": "effbc31641c41955abe1f741e4cc08773dc01968b1ac8b3cd1ccd6a17aeabd27",
-      "claim_end_time": 1754622000,
-      "end_time": 1754622000,
-      "has_expired": true
-    }
-  ],
+  "12972554632": [],
   "12972566408": [
     {
       "start_time": 1755795600,
@@ -2749,22 +2144,7 @@
       "has_expired": false
     }
   ],
-  "12973057544": [
-    {
-      "start_time": 1754758800,
-      "claim_start_time": 1754758800,
-      "voucher_code": "DAHSYATPU543",
-      "min_spend": 3000000000,
-      "percentage": 50,
-      "cap": 1300000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212699791212564&signature=1652e3c5c096c0ea9a96b98e3742a6602d391c43e1cdf8fe0676483ee8da175e",
-      "promotion_id": 1212699791212564,
-      "signature": "1652e3c5c096c0ea9a96b98e3742a6602d391c43e1cdf8fe0676483ee8da175e",
-      "claim_end_time": 1754845199,
-      "end_time": 1754845199,
-      "has_expired": true
-    }
-  ],
+  "12973057544": [],
   "12972478728": [
     {
       "start_time": 1756400400,
@@ -4167,54 +3547,9 @@
       "has_expired": false
     }
   ],
-  "12972569352": [
-    {
-      "start_time": 1755536400,
-      "claim_start_time": 1755536400,
-      "voucher_code": "JAJANPICKUP199",
-      "min_spend": 6000000000,
-      "percentage": 40,
-      "cap": 3500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222978982133824&signature=da530de853aaf7a9f309ca6258a499399bcf2a177286fdbd1c66b1d62b6b768b",
-      "promotion_id": 1222978982133824,
-      "signature": "da530de853aaf7a9f309ca6258a499399bcf2a177286fdbd1c66b1d62b6b768b",
-      "claim_end_time": 1755622799,
-      "end_time": 1755622799,
-      "has_expired": true
-    }
-  ],
-  "12972547464": [
-    {
-      "start_time": 1755190800,
-      "claim_start_time": 1755190800,
-      "voucher_code": "TVKABEL15AUGNF4",
-      "min_spend": 10000000000,
-      "percentage": 1,
-      "cap": 3500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212788568375300&signature=b40ec24c0ab3d29df22c0496a19d753e2c9466c1712ef3082d280797f9909136",
-      "promotion_id": 1212788568375300,
-      "signature": "b40ec24c0ab3d29df22c0496a19d753e2c9466c1712ef3082d280797f9909136",
-      "claim_end_time": 1755795540,
-      "end_time": 1755795540,
-      "has_expired": true
-    }
-  ],
-  "12972544648": [
-    {
-      "start_time": 1754413200,
-      "claim_start_time": 1754413200,
-      "voucher_code": "DAHSYATPU519",
-      "min_spend": 3000000000,
-      "percentage": 50,
-      "cap": 1300000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212699824373828&signature=6c32e1a90bfde96d647aed09685f555bd418b2a9b2c3e0d0ef144eb940ef46aa",
-      "promotion_id": 1212699824373828,
-      "signature": "6c32e1a90bfde96d647aed09685f555bd418b2a9b2c3e0d0ef144eb940ef46aa",
-      "claim_end_time": 1754499599,
-      "end_time": 1754499599,
-      "has_expired": true
-    }
-  ],
+  "12972569352": [],
+  "12972547464": [],
+  "12972544648": [],
   "12972580872": [
     {
       "start_time": 1755536400,
@@ -4246,38 +3581,8 @@
     }
   ],
   "12972479624": [],
-  "12973079048": [
-    {
-      "start_time": 1755493200,
-      "claim_start_time": 1755493200,
-      "voucher_code": "LIVE-732767145559064576",
-      "min_spend": 2000000000,
-      "percentage": 50,
-      "cap": 1000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222211156066316&signature=07656ebcad02a04bcaef984c8fdf37d803c6955a376dd2a767c2cb4c24c832f2",
-      "promotion_id": 1222211156066316,
-      "signature": "07656ebcad02a04bcaef984c8fdf37d803c6955a376dd2a767c2cb4c24c832f2",
-      "claim_end_time": 1755500400,
-      "end_time": 1755500400,
-      "has_expired": true
-    }
-  ],
-  "12972565768": [
-    {
-      "start_time": 1755622800,
-      "claim_start_time": 1755622800,
-      "voucher_code": "DAHSYATPU606",
-      "min_spend": 3000000000,
-      "percentage": 40,
-      "cap": 1300000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222978956967948&signature=0c8948dd16a1fa5821a9941014ab9d858c48746f0112d93cd51f3dfd0aff48bc",
-      "promotion_id": 1222978956967948,
-      "signature": "0c8948dd16a1fa5821a9941014ab9d858c48746f0112d93cd51f3dfd0aff48bc",
-      "claim_end_time": 1755709199,
-      "end_time": 1755709199,
-      "has_expired": true
-    }
-  ],
+  "12973079048": [],
+  "12972565768": [],
   "12973105160": [
     {
       "start_time": 1756116000,
@@ -4294,22 +3599,7 @@
       "has_expired": false
     }
   ],
-  "12972574728": [
-    {
-      "start_time": 1755622800,
-      "claim_start_time": 1755622800,
-      "voucher_code": "SPLDAYW3AUGNB",
-      "min_spend": 0,
-      "percentage": 100,
-      "cap": 6000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1224996467130368&signature=0b3904e0b990911f0d9de7650a6ebb80bf74395b530fb417e51b1caca8179cae",
-      "promotion_id": 1224996467130368,
-      "signature": "0b3904e0b990911f0d9de7650a6ebb80bf74395b530fb417e51b1caca8179cae",
-      "claim_end_time": 1755709140,
-      "end_time": 1755709140,
-      "has_expired": true
-    }
-  ],
+  "12972574728": [],
   "12973103496": [
     {
       "start_time": 1756054800,
@@ -4446,69 +3736,10 @@
       "has_expired": false
     }
   ],
-  "12973065736": [
-    {
-      "start_time": 1755622800,
-      "claim_start_time": 1755622800,
-      "voucher_code": "DAHSYATPU602",
-      "min_spend": 3000000000,
-      "percentage": 50,
-      "cap": 1500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222978989867064&signature=4226ba21588f591ec15d05ce6e3f2c720f2e2083c312dfbfaf5dd2be2882c6df",
-      "promotion_id": 1222978989867064,
-      "signature": "4226ba21588f591ec15d05ce6e3f2c720f2e2083c312dfbfaf5dd2be2882c6df",
-      "claim_end_time": 1755709199,
-      "end_time": 1755709199,
-      "has_expired": true
-    }
-  ],
-  "12972545544": [
-    {
-      "start_time": 1755104400,
-      "claim_start_time": 1755104400,
-      "voucher_code": "JAJANPICKUP189",
-      "min_spend": 6000000000,
-      "percentage": 40,
-      "cap": 3500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217950422417444&signature=fa4b438e6a259569a168862e1339f8421843df48e061eec2850e06ef79441159",
-      "promotion_id": 1217950422417444,
-      "signature": "fa4b438e6a259569a168862e1339f8421843df48e061eec2850e06ef79441159",
-      "claim_end_time": 1755190799,
-      "end_time": 1755190799,
-      "has_expired": true
-    }
-  ],
+  "12973065736": [],
+  "12972545544": [],
   "12973062920": [],
-  "12972475528": [
-    {
-      "start_time": 1755435600,
-      "claim_start_time": 1755435600,
-      "voucher_code": "LIVE-732639928543870976",
-      "min_spend": 5000000000,
-      "percentage": 80,
-      "cap": 8000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222086920519720&signature=fad69e87bd054c8ef3ad04f08e4812104e7f06d05aefc02dbbd9e405dca137c8",
-      "promotion_id": 1222086920519720,
-      "signature": "fad69e87bd054c8ef3ad04f08e4812104e7f06d05aefc02dbbd9e405dca137c8",
-      "claim_end_time": 1755449940,
-      "end_time": 1755449940,
-      "has_expired": true
-    },
-    {
-      "start_time": 1755435600,
-      "claim_start_time": 1755435600,
-      "voucher_code": "LIVE-732639928577425408",
-      "min_spend": 2000000000,
-      "percentage": 50,
-      "cap": 1000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222086920126492&signature=1cc881ed2644656fb1d6690da35e7b11fd6d642908c9c5823a9d8f837353f5fb",
-      "promotion_id": 1222086920126492,
-      "signature": "1cc881ed2644656fb1d6690da35e7b11fd6d642908c9c5823a9d8f837353f5fb",
-      "claim_end_time": 1755449940,
-      "end_time": 1755449940,
-      "has_expired": true
-    }
-  ],
+  "12972475528": [],
   "12972568456": [],
   "12972576520": [],
   "12973095432": [],
@@ -4559,100 +3790,11 @@
       "has_expired": false
     }
   ],
-  "12973056008": [
-    {
-      "start_time": 1754845200,
-      "claim_start_time": 1754845200,
-      "voucher_code": "JAJANPICKUP184",
-      "min_spend": 10000000000,
-      "percentage": 30,
-      "cap": 10000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217950389125144&signature=835af5ce20dc7d9bd334e7ade403d68c640963da1856b9742c87b13bc4b412fd",
-      "promotion_id": 1217950389125144,
-      "signature": "835af5ce20dc7d9bd334e7ade403d68c640963da1856b9742c87b13bc4b412fd",
-      "claim_end_time": 1754931599,
-      "end_time": 1754931599,
-      "has_expired": true
-    }
-  ],
-  "12972569608": [
-    {
-      "start_time": 1755622800,
-      "claim_start_time": 1755622800,
-      "voucher_code": "DAHSYATPU605",
-      "min_spend": 3000000000,
-      "percentage": 40,
-      "cap": 1500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222978990129220&signature=46c077d2e2dafc3bf73172d43dd026b978f867c71747c0125130dcc74ccdca66",
-      "promotion_id": 1222978990129220,
-      "signature": "46c077d2e2dafc3bf73172d43dd026b978f867c71747c0125130dcc74ccdca66",
-      "claim_end_time": 1755709199,
-      "end_time": 1755709199,
-      "has_expired": true
-    }
-  ],
-  "12973055880": [
-    {
-      "start_time": 1754240400,
-      "claim_start_time": 1754240400,
-      "voucher_code": "DAHSYATPU510",
-      "min_spend": 3000000000,
-      "percentage": 40,
-      "cap": 1300000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212699800256540&signature=4311362298fc2259fb550ab676c7a03bab9b162fe9a27b13981b63fac4b028c8",
-      "promotion_id": 1212699800256540,
-      "signature": "4311362298fc2259fb550ab676c7a03bab9b162fe9a27b13981b63fac4b028c8",
-      "claim_end_time": 1754326799,
-      "end_time": 1754326799,
-      "has_expired": true
-    }
-  ],
-  "12973076872": [
-    {
-      "start_time": 1755622800,
-      "claim_start_time": 1755622800,
-      "voucher_code": "DISKONPICKUP404",
-      "min_spend": 0,
-      "percentage": 12,
-      "cap": 5000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222978964963328&signature=6c28c199d338880f70b03690a1ff2dcd8c6e53f6e6209a6f20cb426dc208e0f8",
-      "promotion_id": 1222978964963328,
-      "signature": "6c28c199d338880f70b03690a1ff2dcd8c6e53f6e6209a6f20cb426dc208e0f8",
-      "claim_end_time": 1755709199,
-      "end_time": 1755709199,
-      "has_expired": true
-    }
-  ],
-  "12972579080": [
-    {
-      "start_time": 1755406800,
-      "claim_start_time": 1755406800,
-      "voucher_code": "LIVE-732639928627757056",
-      "min_spend": 5000000000,
-      "percentage": 80,
-      "cap": 8000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222086920388612&signature=920293b0039e85163deb115dfd4d3aaabd817450e70e749125cfd4186d62253a",
-      "promotion_id": 1222086920388612,
-      "signature": "920293b0039e85163deb115dfd4d3aaabd817450e70e749125cfd4186d62253a",
-      "claim_end_time": 1755414000,
-      "end_time": 1755414000,
-      "has_expired": true
-    },
-    {
-      "start_time": 1755406800,
-      "claim_start_time": 1755406800,
-      "voucher_code": "LIVE-732639928594202624",
-      "min_spend": 2000000000,
-      "percentage": 50,
-      "cap": 1000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222086920781832&signature=b36c25bd2b9e1da340243ac6ad5405a040fedada07bbb6c9591d3abab4c397e7",
-      "promotion_id": 1222086920781832,
-      "signature": "b36c25bd2b9e1da340243ac6ad5405a040fedada07bbb6c9591d3abab4c397e7",
-      "claim_end_time": 1755414000,
-      "end_time": 1755414000,
-      "has_expired": true
-    }
-  ],
+  "12973056008": [],
+  "12972569608": [],
+  "12973055880": [],
+  "12973076872": [],
+  "12972579080": [],
   "12973068040": [
     {
       "start_time": 1755583380,
@@ -4669,100 +3811,11 @@
       "has_expired": false
     }
   ],
-  "12972546568": [
-    {
-      "start_time": 1755018000,
-      "claim_start_time": 1755018000,
-      "voucher_code": "SBDOPPOD102",
-      "min_spend": 200000000000,
-      "percentage": 10,
-      "cap": 30000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1215671824695300&signature=1c23cecae7c230739bbf8554a859bed23a49bf12798d19e608e49fb5d8367c57",
-      "promotion_id": 1215671824695300,
-      "signature": "1c23cecae7c230739bbf8554a859bed23a49bf12798d19e608e49fb5d8367c57",
-      "claim_end_time": 1755104340,
-      "end_time": 1755104340,
-      "has_expired": true
-    }
-  ],
-  "12972578824": [
-    {
-      "start_time": 1755709200,
-      "claim_start_time": 1755709200,
-      "voucher_code": "FBTB721",
-      "min_spend": 500000000,
-      "percentage": 100,
-      "cap": 500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1220644742643712&signature=a6eda8f70e68150f9d32f2673ac73b5e986bf729c2bdcf93e7e6e0bf7b3efe39",
-      "promotion_id": 1220644742643712,
-      "signature": "a6eda8f70e68150f9d32f2673ac73b5e986bf729c2bdcf93e7e6e0bf7b3efe39",
-      "claim_end_time": 1755795540,
-      "end_time": 1755795540,
-      "has_expired": true
-    }
-  ],
-  "12972565384": [
-    {
-      "start_time": 1755450000,
-      "claim_start_time": 1755450000,
-      "voucher_code": "DAHSYATPU592",
-      "min_spend": 4000000000,
-      "percentage": 40,
-      "cap": 2000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222978973351944&signature=294ffbcd9397e4da1237976d6f54dc52abbb43cdf81dc2fb0160a2fbb0aed09c",
-      "promotion_id": 1222978973351944,
-      "signature": "294ffbcd9397e4da1237976d6f54dc52abbb43cdf81dc2fb0160a2fbb0aed09c",
-      "claim_end_time": 1755536399,
-      "end_time": 1755536399,
-      "has_expired": true
-    }
-  ],
-  "12972546312": [
-    {
-      "start_time": 1754647200,
-      "claim_start_time": 1754647200,
-      "voucher_code": "MRVCCB7121JT5AUG8",
-      "min_spend": 30000000000,
-      "percentage": 7,
-      "cap": 100000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217918067556352&signature=e5a4798f23c6105803e3c1180ead2aa5f7d71c406c7f06a296506946866eb05b",
-      "promotion_id": 1217918067556352,
-      "signature": "e5a4798f23c6105803e3c1180ead2aa5f7d71c406c7f06a296506946866eb05b",
-      "claim_end_time": 1754672399,
-      "end_time": 1754672399,
-      "has_expired": true
-    },
-    {
-      "start_time": 1754619300,
-      "claim_start_time": 1754619300,
-      "voucher_code": "MRVCCB121JT8AUG",
-      "min_spend": 30000000000,
-      "percentage": 6,
-      "cap": 100000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1216433678467076&signature=ace320ed8c5bdead4f87431e4aebd3f3c458153b86b06fff980950a1aa38050f",
-      "promotion_id": 1216433678467076,
-      "signature": "ace320ed8c5bdead4f87431e4aebd3f3c458153b86b06fff980950a1aa38050f",
-      "claim_end_time": 1754672399,
-      "end_time": 1754672399,
-      "has_expired": true
-    }
-  ],
-  "12972555656": [
-    {
-      "start_time": 1754590500,
-      "claim_start_time": 1754590500,
-      "voucher_code": "CP10200K0808BU",
-      "min_spend": 10000000000,
-      "percentage": 10,
-      "cap": 20000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1216444549709824&signature=d1b67d7a08ee0298cb31512715913e3ea1ddfa891a25785eef204ea699123b24",
-      "promotion_id": 1216444549709824,
-      "signature": "d1b67d7a08ee0298cb31512715913e3ea1ddfa891a25785eef204ea699123b24",
-      "claim_end_time": 1754629199,
-      "end_time": 1754629199,
-      "has_expired": true
-    }
-  ],
+  "12972546568": [],
+  "12972578824": [],
+  "12972565384": [],
+  "12972546312": [],
+  "12972555656": [],
   "12973077768": [
     {
       "start_time": 1755882000,
@@ -4779,22 +3832,7 @@
       "has_expired": false
     }
   ],
-  "12972550280": [
-    {
-      "start_time": 1755429420,
-      "claim_start_time": 1755429420,
-      "voucher_code": "DD1745RBOT35",
-      "min_spend": 4500000000,
-      "percentage": 17,
-      "cap": 4500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1220674455093248&signature=833a0eefe128ac884ad8f1327e4e315909f9732e07a8d2e522761214bcfea5ed",
-      "promotion_id": 1220674455093248,
-      "signature": "833a0eefe128ac884ad8f1327e4e315909f9732e07a8d2e522761214bcfea5ed",
-      "claim_end_time": 1755449940,
-      "end_time": 1755449940,
-      "has_expired": true
-    }
-  ],
+  "12972550280": [],
   "12972585352": [
     {
       "start_time": 1756094400,
@@ -4811,22 +3849,7 @@
       "has_expired": false
     }
   ],
-  "12972558728": [
-    {
-      "start_time": 1754845200,
-      "claim_start_time": 1754845200,
-      "voucher_code": "DISKONPICKUP365",
-      "min_spend": 0,
-      "percentage": 25,
-      "cap": 5000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217950388469780&signature=973c45e1e6e126d94aa4114d320732d295aadab54ca623381fcb8e6034d1abc0",
-      "promotion_id": 1217950388469780,
-      "signature": "973c45e1e6e126d94aa4114d320732d295aadab54ca623381fcb8e6034d1abc0",
-      "claim_end_time": 1754931599,
-      "end_time": 1754931599,
-      "has_expired": true
-    }
-  ],
+  "12972558728": [],
   "12972548104": [
     {
       "start_time": 1756054800,
@@ -4843,38 +3866,8 @@
       "has_expired": false
     }
   ],
-  "12973066760": [
-    {
-      "start_time": 1755709200,
-      "claim_start_time": 1755709200,
-      "voucher_code": "JAJANPICKUP203",
-      "min_spend": 6000000000,
-      "percentage": 40,
-      "cap": 3500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222978965356640&signature=45700a882894b6ad80007c5db45aa9d34775073dcf7ec4aaad94680992750a45",
-      "promotion_id": 1222978965356640,
-      "signature": "45700a882894b6ad80007c5db45aa9d34775073dcf7ec4aaad94680992750a45",
-      "claim_end_time": 1755795599,
-      "end_time": 1755795599,
-      "has_expired": true
-    }
-  ],
-  "12973078536": [
-    {
-      "start_time": 1755252000,
-      "claim_start_time": 1755252000,
-      "voucher_code": "NU1DC5010AUG20252",
-      "min_spend": 1000000000,
-      "percentage": 50,
-      "cap": 1000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222868822540288&signature=7c482927c0c541fc7e3f748b1e9ab6e0c25e7a87f137e8a2f7fb254e84f38378",
-      "promotion_id": 1222868822540288,
-      "signature": "7c482927c0c541fc7e3f748b1e9ab6e0c25e7a87f137e8a2f7fb254e84f38378",
-      "claim_end_time": 1755583380,
-      "end_time": 1755583380,
-      "has_expired": true
-    }
-  ],
+  "12973066760": [],
+  "12973078536": [],
   "12972577672": [
     {
       "start_time": 1755838800,
@@ -4907,72 +3900,12 @@
       "has_expired": false
     }
   ],
-  "12972558600": [
-    {
-      "start_time": 1754240400,
-      "claim_start_time": 1754240400,
-      "voucher_code": "DAHSYATPU506",
-      "min_spend": 3000000000,
-      "percentage": 50,
-      "cap": 1500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212699799863304&signature=d3b3d9838663f5e1dbb4ec1d11d4d937c75d32cb8bbcb3491d426c918842bcc5",
-      "promotion_id": 1212699799863304,
-      "signature": "d3b3d9838663f5e1dbb4ec1d11d4d937c75d32cb8bbcb3491d426c918842bcc5",
-      "claim_end_time": 1754326799,
-      "end_time": 1754326799,
-      "has_expired": true
-    }
-  ],
+  "12972558600": [],
   "12973065224": [],
-  "12972566024": [
-    {
-      "start_time": 1755709200,
-      "claim_start_time": 1755709200,
-      "voucher_code": "DAHSYATPU611",
-      "min_spend": 3000000000,
-      "percentage": 40,
-      "cap": 1500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222978965094460&signature=41d66cde11a1820d1f50d7939a78e29fb8d01df773b0dd36d030688b652b4de4",
-      "promotion_id": 1222978965094460,
-      "signature": "41d66cde11a1820d1f50d7939a78e29fb8d01df773b0dd36d030688b652b4de4",
-      "claim_end_time": 1755795599,
-      "end_time": 1755795599,
-      "has_expired": true
-    }
-  ],
-  "12972552072": [
-    {
-      "start_time": 1755536400,
-      "claim_start_time": 1755536400,
-      "voucher_code": "SFOODDAY16",
-      "min_spend": 0,
-      "percentage": 100,
-      "cap": 2000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1221519020146688&signature=dc4a7140351376c4820aff549c455404831cafd7aaddf99d681a65a902d4bde6",
-      "promotion_id": 1221519020146688,
-      "signature": "dc4a7140351376c4820aff549c455404831cafd7aaddf99d681a65a902d4bde6",
-      "claim_end_time": 1755622799,
-      "end_time": 1755622799,
-      "has_expired": true
-    }
-  ],
+  "12972566024": [],
+  "12972552072": [],
   "12968735496": [],
-  "12972559240": [
-    {
-      "start_time": 1754931600,
-      "claim_start_time": 1754931600,
-      "voucher_code": "JAJANPICKUP186",
-      "min_spend": 10000000000,
-      "percentage": 30,
-      "cap": 10000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217950405640200&signature=4ea5e2e9c304751e6c22f9cc6642c67fc034909a93519ca86e5464bc4753e3cb",
-      "promotion_id": 1217950405640200,
-      "signature": "4ea5e2e9c304751e6c22f9cc6642c67fc034909a93519ca86e5464bc4753e3cb",
-      "claim_end_time": 1755017999,
-      "end_time": 1755017999,
-      "has_expired": true
-    }
-  ],
+  "12972559240": [],
   "12972549896": [],
   "12972560392": [
     {
@@ -5022,39 +3955,9 @@
       "has_expired": false
     }
   ],
-  "12972554376": [
-    {
-      "start_time": 1754629200,
-      "claim_start_time": 1754629200,
-      "voucher_code": "LIVE-722282211283304448",
-      "min_spend": 2000000000,
-      "percentage": 50,
-      "cap": 1000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1211971962683392&signature=f00223c89510525d9fa02b31c711b2c5480c71b6d54dc5022093148c8b2f9ee5",
-      "promotion_id": 1211971962683392,
-      "signature": "f00223c89510525d9fa02b31c711b2c5480c71b6d54dc5022093148c8b2f9ee5",
-      "claim_end_time": 1754636400,
-      "end_time": 1754636400,
-      "has_expired": true
-    }
-  ],
+  "12972554376": [],
   "12972568584": [],
-  "12973057288": [
-    {
-      "start_time": 1755190800,
-      "claim_start_time": 1755190800,
-      "voucher_code": "DISKONPICKUP381",
-      "min_spend": 0,
-      "percentage": 25,
-      "cap": 5000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217950397120548&signature=5072dec304511e57dac8fc4e52b8cdc0e79dc8b836fc055338bb0cd2f832dbe3",
-      "promotion_id": 1217950397120548,
-      "signature": "5072dec304511e57dac8fc4e52b8cdc0e79dc8b836fc055338bb0cd2f832dbe3",
-      "claim_end_time": 1755277199,
-      "end_time": 1755277199,
-      "has_expired": true
-    }
-  ],
+  "12973057288": [],
   "12973077128": [
     {
       "start_time": 1755795600,
@@ -5071,38 +3974,8 @@
       "has_expired": false
     }
   ],
-  "12972477704": [
-    {
-      "start_time": 1754845200,
-      "claim_start_time": 1754845200,
-      "voucher_code": "DC8300RB0811SPL",
-      "min_spend": 30000000000,
-      "percentage": 8,
-      "cap": 30000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217245041016832&signature=a1d8eb420928e42655b0c685948fcbc054d1693f4bafe4dd8803279e20bad1ab",
-      "promotion_id": 1217245041016832,
-      "signature": "a1d8eb420928e42655b0c685948fcbc054d1693f4bafe4dd8803279e20bad1ab",
-      "claim_end_time": 1755449999,
-      "end_time": 1755449999,
-      "has_expired": true
-    }
-  ],
-  "12973065864": [
-    {
-      "start_time": 1755622800,
-      "claim_start_time": 1755622800,
-      "voucher_code": "DAHSYATPU604",
-      "min_spend": 4000000000,
-      "percentage": 40,
-      "cap": 2000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222978990129212&signature=4f074389347059cfe9a344a4eb5427851678a654b1580b3a2b77fe85b699d965",
-      "promotion_id": 1222978990129212,
-      "signature": "4f074389347059cfe9a344a4eb5427851678a654b1580b3a2b77fe85b699d965",
-      "claim_end_time": 1755709199,
-      "end_time": 1755709199,
-      "has_expired": true
-    }
-  ],
+  "12972477704": [],
+  "12973065864": [],
   "12972583560": [
     {
       "start_time": 1755507600,
@@ -5135,115 +4008,12 @@
       "has_expired": false
     }
   ],
-  "12973060616": [
-    {
-      "start_time": 1755320400,
-      "claim_start_time": 1755320400,
-      "voucher_code": "DD5045RB8SOK",
-      "min_spend": 4500000000,
-      "percentage": 17,
-      "cap": 4500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1216545271857152&signature=54a4cf01b4f9cc9e50fb3babb907b7fd1d9c57279dedf54215fe4ea6135a9e45",
-      "promotion_id": 1216545271857152,
-      "signature": "54a4cf01b4f9cc9e50fb3babb907b7fd1d9c57279dedf54215fe4ea6135a9e45",
-      "claim_end_time": 1755341940,
-      "end_time": 1755341940,
-      "has_expired": true
-    }
-  ],
-  "12972553992": [
-    {
-      "start_time": 1755536400,
-      "claim_start_time": 1755536400,
-      "voucher_code": "DISKONPICKUP399",
-      "min_spend": 0,
-      "percentage": 14,
-      "cap": 5000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222978990129168&signature=a3ecdf2918c43fe5ed22e54aa4d475d2fc35417c12bd3978c9ce7211ca3456fa",
-      "promotion_id": 1222978990129168,
-      "signature": "a3ecdf2918c43fe5ed22e54aa4d475d2fc35417c12bd3978c9ce7211ca3456fa",
-      "claim_end_time": 1755622799,
-      "end_time": 1755622799,
-      "has_expired": true
-    }
-  ],
-  "12972545928": [
-    {
-      "start_time": 1755190800,
-      "claim_start_time": 1755190800,
-      "voucher_code": "DISKONPICKUP384",
-      "min_spend": 0,
-      "percentage": 12,
-      "cap": 5000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217950405640192&signature=60ebcaedfa781d917086ff90111d246604fd52a5ed7f0cd7aaa4c29bd2e7e744",
-      "promotion_id": 1217950405640192,
-      "signature": "60ebcaedfa781d917086ff90111d246604fd52a5ed7f0cd7aaa4c29bd2e7e744",
-      "claim_end_time": 1755277199,
-      "end_time": 1755277199,
-      "has_expired": true
-    }
-  ],
-  "12972562696": [
-    {
-      "start_time": 1753981200,
-      "claim_start_time": 1753981200,
-      "voucher_code": "SPLXPSWT082HM",
-      "min_spend": 150000000000,
-      "percentage": 5,
-      "cap": 80000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1210612403683328&signature=d420af2eaa6d9982de2c5df29e93e4fec1bc8ee417fd1e2e26fbaa6bbffcf63e",
-      "promotion_id": 1210612403683328,
-      "signature": "d420af2eaa6d9982de2c5df29e93e4fec1bc8ee417fd1e2e26fbaa6bbffcf63e",
-      "claim_end_time": 1756659540,
-      "end_time": 1756659540,
-      "has_expired": false
-    },
-    {
-      "start_time": 1753981200,
-      "claim_start_time": 1753981200,
-      "voucher_code": "SPLXHOTEL08W6D",
-      "min_spend": 35000000000,
-      "percentage": 5,
-      "cap": 80000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1210612404207620&signature=60560165c90bb7a6aeec2ca1d9bf2c597967df38a8a3b6ac6cc1f9c6b9c40d44",
-      "promotion_id": 1210612404207620,
-      "signature": "60560165c90bb7a6aeec2ca1d9bf2c597967df38a8a3b6ac6cc1f9c6b9c40d44",
-      "claim_end_time": 1756659540,
-      "end_time": 1756659540,
-      "has_expired": false
-    },
-    {
-      "start_time": 1753981200,
-      "claim_start_time": 1753981200,
-      "voucher_code": "SPLXKRETABUS082U",
-      "min_spend": 25000000000,
-      "percentage": 5,
-      "cap": 45000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1210612404207624&signature=5b525bda56a2e98839325aae41f6dc86b79983da97cdb9bdee1b01d461fbdf79",
-      "promotion_id": 1210612404207624,
-      "signature": "5b525bda56a2e98839325aae41f6dc86b79983da97cdb9bdee1b01d461fbdf79",
-      "claim_end_time": 1756659540,
-      "end_time": 1756659540,
-      "has_expired": false
-    }
-  ],
+  "12973060616": [],
+  "12972553992": [],
+  "12972545928": [],
+  "12972562696": [],
   "12973082888": [],
-  "12973056520": [
-    {
-      "start_time": 1755018000,
-      "claim_start_time": 1755018000,
-      "voucher_code": "JAJANPICKUP188",
-      "min_spend": 10000000000,
-      "percentage": 30,
-      "cap": 10000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217950414028836&signature=71d1240b6fd5046614e1e4d43dfea3bc1303ca0864d68c83d6091dc3e6f36df9",
-      "promotion_id": 1217950414028836,
-      "signature": "71d1240b6fd5046614e1e4d43dfea3bc1303ca0864d68c83d6091dc3e6f36df9",
-      "claim_end_time": 1755104399,
-      "end_time": 1755104399,
-      "has_expired": true
-    }
-  ],
+  "12973056520": [],
   "12973064584": [
     {
       "start_time": 1755450000,
@@ -5260,22 +4030,7 @@
       "has_expired": false
     }
   ],
-  "12972547336": [
-    {
-      "start_time": 1755190800,
-      "claim_start_time": 1755190800,
-      "voucher_code": "TELKOM15AUG9GI",
-      "min_spend": 5000000000,
-      "percentage": 2,
-      "cap": 3500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212788568375296&signature=85492ac2fa5a3acc25a28da19da80e9acafe47c5a6375f78e8348f27faa07d14",
-      "promotion_id": 1212788568375296,
-      "signature": "85492ac2fa5a3acc25a28da19da80e9acafe47c5a6375f78e8348f27faa07d14",
-      "claim_end_time": 1755795540,
-      "end_time": 1755795540,
-      "has_expired": true
-    }
-  ],
+  "12972547336": [],
   "12973058824": [
     {
       "start_time": 1755104400,
@@ -5402,104 +4157,6 @@
       "claim_end_time": 1756659540,
       "end_time": 1756659540,
       "has_expired": false
-    },
-    {
-      "start_time": 1755104400,
-      "claim_start_time": 1755104400,
-      "voucher_code": "SV1221066446225412",
-      "min_spend": 8000000000,
-      "percentage": 18,
-      "cap": 25000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1221066446225412&signature=712683d650c1b7c0e71d39d67854c11c9c5d8cd24d58b66e9aca200435944c0a",
-      "promotion_id": 1221066446225412,
-      "signature": "712683d650c1b7c0e71d39d67854c11c9c5d8cd24d58b66e9aca200435944c0a",
-      "claim_end_time": 1755190799,
-      "end_time": 1755190799,
-      "has_expired": true
-    },
-    {
-      "start_time": 1755133200,
-      "claim_start_time": 1755133200,
-      "voucher_code": "BDCPD14AUG1",
-      "min_spend": 10000000000,
-      "percentage": 10,
-      "cap": 5000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217250418507776&signature=d12a9b422bd36c868a2b19f8c0968f5e11b780ba6d90c41289312ed5f6963849",
-      "promotion_id": 1217250418507776,
-      "signature": "d12a9b422bd36c868a2b19f8c0968f5e11b780ba6d90c41289312ed5f6963849",
-      "claim_end_time": 1755190740,
-      "end_time": 1755190740,
-      "has_expired": true
-    },
-    {
-      "start_time": 1755133200,
-      "claim_start_time": 1755133200,
-      "voucher_code": "BDCPD14AUG4",
-      "min_spend": 15000000000,
-      "percentage": 15,
-      "cap": 10000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217250434629632&signature=d34f7b2b20bdca7b9c45e30e62ffe642a43ab2a66cb4ffa23df2086a91c0f825",
-      "promotion_id": 1217250434629632,
-      "signature": "d34f7b2b20bdca7b9c45e30e62ffe642a43ab2a66cb4ffa23df2086a91c0f825",
-      "claim_end_time": 1755190740,
-      "end_time": 1755190740,
-      "has_expired": true
-    },
-    {
-      "start_time": 1755158400,
-      "claim_start_time": 1755158400,
-      "voucher_code": "BDCPD14AUG2",
-      "min_spend": 10000000000,
-      "percentage": 10,
-      "cap": 5000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217250417852416&signature=63b8ad9ba8db4a683921e9108abbd424ee29fbb73d678f8d47d832c9218257af",
-      "promotion_id": 1217250417852416,
-      "signature": "63b8ad9ba8db4a683921e9108abbd424ee29fbb73d678f8d47d832c9218257af",
-      "claim_end_time": 1755190740,
-      "end_time": 1755190740,
-      "has_expired": true
-    },
-    {
-      "start_time": 1755158400,
-      "claim_start_time": 1755158400,
-      "voucher_code": "BDCPD14AUG5",
-      "min_spend": 15000000000,
-      "percentage": 15,
-      "cap": 10000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217250434891776&signature=3e69f012fa54fac2ceb4b96f8bf7493429fcc8766878ac47a50548642947b402",
-      "promotion_id": 1217250434891776,
-      "signature": "3e69f012fa54fac2ceb4b96f8bf7493429fcc8766878ac47a50548642947b402",
-      "claim_end_time": 1755190740,
-      "end_time": 1755190740,
-      "has_expired": true
-    },
-    {
-      "start_time": 1755169200,
-      "claim_start_time": 1755169200,
-      "voucher_code": "BDCPD14AUG3",
-      "min_spend": 10000000000,
-      "percentage": 10,
-      "cap": 5000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217250426896384&signature=faf7e7119aa0168e80764d0a714a2700148a4584f9d9ff6a1edac8b0703ed5ec",
-      "promotion_id": 1217250426896384,
-      "signature": "faf7e7119aa0168e80764d0a714a2700148a4584f9d9ff6a1edac8b0703ed5ec",
-      "claim_end_time": 1755190740,
-      "end_time": 1755190740,
-      "has_expired": true
-    },
-    {
-      "start_time": 1755169200,
-      "claim_start_time": 1755169200,
-      "voucher_code": "BDCPD14AUG6",
-      "min_spend": 15000000000,
-      "percentage": 15,
-      "cap": 10000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217250434629636&signature=78655266ae74f3e2e320cdc6e5512bef6d493459406b11674e7d086b53a4770a",
-      "promotion_id": 1217250434629636,
-      "signature": "78655266ae74f3e2e320cdc6e5512bef6d493459406b11674e7d086b53a4770a",
-      "claim_end_time": 1755190740,
-      "end_time": 1755190740,
-      "has_expired": true
     }
   ],
   "12972572296": [
@@ -5532,38 +4189,8 @@
       "has_expired": false
     }
   ],
-  "12972554120": [
-    {
-      "start_time": 1755622800,
-      "claim_start_time": 1755622800,
-      "voucher_code": "DAHSYATPU603",
-      "min_spend": 3000000000,
-      "percentage": 50,
-      "cap": 1300000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222978989867072&signature=4a1b3e4ff9d175ef61f334f68e49e85c3fe4db7e7e88c47884fbc5963f3c15f4",
-      "promotion_id": 1222978989867072,
-      "signature": "4a1b3e4ff9d175ef61f334f68e49e85c3fe4db7e7e88c47884fbc5963f3c15f4",
-      "claim_end_time": 1755709199,
-      "end_time": 1755709199,
-      "has_expired": true
-    }
-  ],
-  "12972558856": [
-    {
-      "start_time": 1754326800,
-      "claim_start_time": 1754326800,
-      "voucher_code": "DAHSYATPU515",
-      "min_spend": 3000000000,
-      "percentage": 40,
-      "cap": 1500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212699816116244&signature=b318796eaf31e414e10e03771bece28c9e81f9f015a04ce5994bb4c33a000e5d",
-      "promotion_id": 1212699816116244,
-      "signature": "b318796eaf31e414e10e03771bece28c9e81f9f015a04ce5994bb4c33a000e5d",
-      "claim_end_time": 1754413199,
-      "end_time": 1754413199,
-      "has_expired": true
-    }
-  ],
+  "12972554120": [],
+  "12972558856": [],
   "12973067272": [
     {
       "start_time": 1755968400,
@@ -5580,36 +4207,7 @@
       "has_expired": false
     }
   ],
-  "12973093000": [
-    {
-      "start_time": 1755608400,
-      "claim_start_time": 1755608400,
-      "voucher_code": "LIVE-732767171278536704",
-      "min_spend": 2000000000,
-      "percentage": 50,
-      "cap": 1000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222211181232144&signature=ced8aad4204604e904d39e7d3f464b21d86db2a9c7efbf1f902fd54cdfe1b280",
-      "promotion_id": 1222211181232144,
-      "signature": "ced8aad4204604e904d39e7d3f464b21d86db2a9c7efbf1f902fd54cdfe1b280",
-      "claim_end_time": 1755622740,
-      "end_time": 1755622740,
-      "has_expired": true
-    },
-    {
-      "start_time": 1755608400,
-      "claim_start_time": 1755608400,
-      "voucher_code": "LIVE-732777264451682304",
-      "min_spend": 10000000000,
-      "percentage": 15,
-      "cap": 3000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222221037584388&signature=4decddf961e86c4e557ccb44fdd4a3326f07e432e45f4ee3e9e9e2ea4c55c58b",
-      "promotion_id": 1222221037584388,
-      "signature": "4decddf961e86c4e557ccb44fdd4a3326f07e432e45f4ee3e9e9e2ea4c55c58b",
-      "claim_end_time": 1755622740,
-      "end_time": 1755622740,
-      "has_expired": true
-    }
-  ],
+  "12973093000": [],
   "12973074056": [
     {
       "start_time": 1756486800,
@@ -5685,68 +4283,9 @@
       "has_expired": false
     }
   ],
-  "12973090824": [
-    {
-      "start_time": 1753981200,
-      "claim_start_time": 1753981200,
-      "voucher_code": "SPLXHOTEL08W6D",
-      "min_spend": 35000000000,
-      "percentage": 5,
-      "cap": 80000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1210612404207620&signature=60560165c90bb7a6aeec2ca1d9bf2c597967df38a8a3b6ac6cc1f9c6b9c40d44",
-      "promotion_id": 1210612404207620,
-      "signature": "60560165c90bb7a6aeec2ca1d9bf2c597967df38a8a3b6ac6cc1f9c6b9c40d44",
-      "claim_end_time": 1756659540,
-      "end_time": 1756659540,
-      "has_expired": false
-    },
-    {
-      "start_time": 1753981200,
-      "claim_start_time": 1753981200,
-      "voucher_code": "SPLXKRETABUS082U",
-      "min_spend": 25000000000,
-      "percentage": 5,
-      "cap": 45000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1210612404207624&signature=5b525bda56a2e98839325aae41f6dc86b79983da97cdb9bdee1b01d461fbdf79",
-      "promotion_id": 1210612404207624,
-      "signature": "5b525bda56a2e98839325aae41f6dc86b79983da97cdb9bdee1b01d461fbdf79",
-      "claim_end_time": 1756659540,
-      "end_time": 1756659540,
-      "has_expired": false
-    }
-  ],
-  "12972569736": [
-    {
-      "start_time": 1755622800,
-      "claim_start_time": 1755622800,
-      "voucher_code": "DISKONPICKUP401",
-      "min_spend": 0,
-      "percentage": 25,
-      "cap": 5000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222978956705828&signature=6f56e0af57cf8de797c3f40a6cabf12e8bac342d9da9904b76d24d9560acda15",
-      "promotion_id": 1222978956705828,
-      "signature": "6f56e0af57cf8de797c3f40a6cabf12e8bac342d9da9904b76d24d9560acda15",
-      "claim_end_time": 1755709199,
-      "end_time": 1755709199,
-      "has_expired": true
-    }
-  ],
-  "12972557192": [
-    {
-      "start_time": 1755230400,
-      "claim_start_time": 1755230400,
-      "voucher_code": "PREHYPE7",
-      "min_spend": 0,
-      "percentage": 80,
-      "cap": 1600000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217084684386312&signature=1bf27ee38638a4bb1078c7b24026f36586e83e3fe758c90a09721c54174de321",
-      "promotion_id": 1217084684386312,
-      "signature": "1bf27ee38638a4bb1078c7b24026f36586e83e3fe758c90a09721c54174de321",
-      "claim_end_time": 1755277199,
-      "end_time": 1755277199,
-      "has_expired": true
-    }
-  ],
+  "12973090824": [],
+  "12972569736": [],
+  "12972557192": [],
   "12973069320": [
     {
       "start_time": 1755450000,
@@ -5780,54 +4319,9 @@
       "has_expired": false
     }
   ],
-  "12968735368": [
-    {
-      "start_time": 1753635600,
-      "claim_start_time": 1753635600,
-      "voucher_code": "DD8500RB0728EL",
-      "min_spend": 50000000000,
-      "percentage": 8,
-      "cap": 50000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1207101645275136&signature=a17fe98274f507cd45032642dc36317b034cf0ab4cb917099f0c4d23afca25fd",
-      "promotion_id": 1207101645275136,
-      "signature": "a17fe98274f507cd45032642dc36317b034cf0ab4cb917099f0c4d23afca25fd",
-      "claim_end_time": 1754240399,
-      "end_time": 1754240399,
-      "has_expired": true
-    }
-  ],
-  "12973059208": [
-    {
-      "start_time": 1754845200,
-      "claim_start_time": 1754845200,
-      "voucher_code": "LIVE-727548210538610688",
-      "min_spend": 10000000000,
-      "percentage": 10,
-      "cap": 3000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217114539180032&signature=33b519d3e3bc6d7cb2e2d4de750587a170a86605eedcb459d22a8f4954463c33",
-      "promotion_id": 1217114539180032,
-      "signature": "33b519d3e3bc6d7cb2e2d4de750587a170a86605eedcb459d22a8f4954463c33",
-      "claim_end_time": 1755449940,
-      "end_time": 1755449940,
-      "has_expired": true
-    }
-  ],
-  "12972568968": [
-    {
-      "start_time": 1755450000,
-      "claim_start_time": 1755450000,
-      "voucher_code": "JAJANPICKUP197",
-      "min_spend": 6000000000,
-      "percentage": 40,
-      "cap": 3500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222978973089836&signature=bdfa24a78fb3a232f0e623ce9439ee4b1265e9b12221f6a777eda951fa8771f4",
-      "promotion_id": 1222978973089836,
-      "signature": "bdfa24a78fb3a232f0e623ce9439ee4b1265e9b12221f6a777eda951fa8771f4",
-      "claim_end_time": 1755536399,
-      "end_time": 1755536399,
-      "has_expired": true
-    }
-  ],
+  "12968735368": [],
+  "12973059208": [],
+  "12972568968": [],
   "12972585224": [
     {
       "start_time": 1756054800,
@@ -5844,39 +4338,9 @@
       "has_expired": false
     }
   ],
-  "12972544776": [
-    {
-      "start_time": 1754413200,
-      "claim_start_time": 1754413200,
-      "voucher_code": "DAHSYATPU522",
-      "min_spend": 3000000000,
-      "percentage": 40,
-      "cap": 1300000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212699833810944&signature=a2e9810d3628290227acb4f6958be8d75ef02da495b2c8fffc728755e7980721",
-      "promotion_id": 1212699833810944,
-      "signature": "a2e9810d3628290227acb4f6958be8d75ef02da495b2c8fffc728755e7980721",
-      "claim_end_time": 1754499599,
-      "end_time": 1754499599,
-      "has_expired": true
-    }
-  ],
+  "12972544776": [],
   "12972556040": [],
-  "12972556680": [
-    {
-      "start_time": 1754845200,
-      "claim_start_time": 1754845200,
-      "voucher_code": "DC10100RB0811OS",
-      "min_spend": 20000000000,
-      "percentage": 10,
-      "cap": 10000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217242792607744&signature=a207da0f418c675ac9ebfca6c949b10239b131fad8e2959a088f54ce745f1892",
-      "promotion_id": 1217242792607744,
-      "signature": "a207da0f418c675ac9ebfca6c949b10239b131fad8e2959a088f54ce745f1892",
-      "claim_end_time": 1755449999,
-      "end_time": 1755449999,
-      "has_expired": true
-    }
-  ],
+  "12972556680": [],
   "12972550536": [],
   "12973105544": [
     {
@@ -5983,73 +4447,13 @@
     }
   ],
   "12972543880": [],
-  "12973103240": [
-    {
-      "start_time": 1755666000,
-      "claim_start_time": 1755666000,
-      "voucher_code": "LIVE-732767154148999680",
-      "min_spend": 2000000000,
-      "percentage": 50,
-      "cap": 1000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222211164454932&signature=5926039c40e195fe0b80c975f96400d765b30b1d1695192f4b9d5fd059dbdf39",
-      "promotion_id": 1222211164454932,
-      "signature": "5926039c40e195fe0b80c975f96400d765b30b1d1695192f4b9d5fd059dbdf39",
-      "claim_end_time": 1755673200,
-      "end_time": 1755673200,
-      "has_expired": true
-    }
-  ],
-  "12973066376": [
-    {
-      "start_time": 1755709200,
-      "claim_start_time": 1755709200,
-      "voucher_code": "DAHSYATPU607",
-      "min_spend": 4000000000,
-      "percentage": 50,
-      "cap": 2000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222978965356580&signature=84fa66ee34afa385a119d5ef5fd7a96f34cc9899763e25055f842afcca74867a",
-      "promotion_id": 1222978965356580,
-      "signature": "84fa66ee34afa385a119d5ef5fd7a96f34cc9899763e25055f842afcca74867a",
-      "claim_end_time": 1755795599,
-      "end_time": 1755795599,
-      "has_expired": true
-    }
-  ],
+  "12973103240": [],
+  "12973066376": [],
   "12972563720": [],
   "12973069832": [],
   "12973067400": [],
-  "12972560520": [
-    {
-      "start_time": 1754658000,
-      "claim_start_time": 1754658000,
-      "voucher_code": "CBXF5010K0808AX",
-      "min_spend": 1000000000,
-      "percentage": 50,
-      "cap": 1000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217919292162048&signature=f4f88baed774fc7a06388185f0801448ebd0a1f20e361e53c9d799d77b3acabb",
-      "promotion_id": 1217919292162048,
-      "signature": "f4f88baed774fc7a06388185f0801448ebd0a1f20e361e53c9d799d77b3acabb",
-      "claim_end_time": 1754672399,
-      "end_time": 1754672399,
-      "has_expired": true
-    }
-  ],
-  "12973065096": [
-    {
-      "start_time": 1754845200,
-      "claim_start_time": 1754845200,
-      "voucher_code": "JAJANLAGI105",
-      "min_spend": 0,
-      "percentage": 50,
-      "cap": 1500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217950388469760&signature=a817721507b2f50b14e023aea1f3ced1ade5478073779078285482ff630b3036",
-      "promotion_id": 1217950388469760,
-      "signature": "a817721507b2f50b14e023aea1f3ced1ade5478073779078285482ff630b3036",
-      "claim_end_time": 1755449999,
-      "end_time": 1755449999,
-      "has_expired": true
-    }
-  ],
+  "12972560520": [],
+  "12973065096": [],
   "12972547976": [
     {
       "start_time": 1756054800,
@@ -6194,22 +4598,7 @@
       "has_expired": false
     }
   ],
-  "12973068168": [
-    {
-      "start_time": 1755583380,
-      "claim_start_time": 1755583380,
-      "voucher_code": "NU4DCNUZ5010AUG2025B",
-      "min_spend": 1000000000,
-      "percentage": 50,
-      "cap": 1000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222998695100416&signature=97716b5c3eb89175fd38248c355a1555d3ebef1901b7c1c61aaa319658865dbd",
-      "promotion_id": 1222998695100416,
-      "signature": "97716b5c3eb89175fd38248c355a1555d3ebef1901b7c1c61aaa319658865dbd",
-      "claim_end_time": 1755601199,
-      "end_time": 1755601199,
-      "has_expired": true
-    }
-  ],
+  "12973068168": [],
   "12972560008": [
     {
       "start_time": 1756184400,
@@ -6226,22 +4615,7 @@
       "has_expired": false
     }
   ],
-  "12972546696": [
-    {
-      "start_time": 1755104400,
-      "claim_start_time": 1755104400,
-      "voucher_code": "SBDOPPOD202",
-      "min_spend": 200000000000,
-      "percentage": 10,
-      "cap": 30000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1215671832821760&signature=34f652afd73b6de620b74e2368217cf29d16c425875a5fe1045a0a08e8491b8f",
-      "promotion_id": 1215671832821760,
-      "signature": "34f652afd73b6de620b74e2368217cf29d16c425875a5fe1045a0a08e8491b8f",
-      "claim_end_time": 1755190740,
-      "end_time": 1755190740,
-      "has_expired": true
-    }
-  ],
+  "12972546696": [],
   "12973062792": [],
   "12973077640": [
     {
@@ -6259,103 +4633,13 @@
       "has_expired": false
     }
   ],
-  "12972548488": [
-    {
-      "start_time": 1754845200,
-      "claim_start_time": 1754845200,
-      "voucher_code": "LIVE-727550521180684288",
-      "min_spend": 10000000000,
-      "percentage": 20,
-      "cap": 5000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217116795977732&signature=6f0f8cf3e88e2a955d9b423311fb11d71ed87d56967be5dc3ab43bbaef3e0a79",
-      "promotion_id": 1217116795977732,
-      "signature": "6f0f8cf3e88e2a955d9b423311fb11d71ed87d56967be5dc3ab43bbaef3e0a79",
-      "claim_end_time": 1755449940,
-      "end_time": 1755449940,
-      "has_expired": true
-    }
-  ],
-  "12972544392": [
-    {
-      "start_time": 1754326800,
-      "claim_start_time": 1754326800,
-      "voucher_code": "DAHSYATPU514",
-      "min_spend": 4000000000,
-      "percentage": 40,
-      "cap": 2000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212699816116240&signature=ef8bd9ee58b4a4388c9e56581bf93667db10ed5f18e266049864d1b0835bebed",
-      "promotion_id": 1212699816116240,
-      "signature": "ef8bd9ee58b4a4388c9e56581bf93667db10ed5f18e266049864d1b0835bebed",
-      "claim_end_time": 1754413199,
-      "end_time": 1754413199,
-      "has_expired": true
-    }
-  ],
-  "12972569096": [
-    {
-      "start_time": 1755536400,
-      "claim_start_time": 1755536400,
-      "voucher_code": "DAHSYATPU596",
-      "min_spend": 3000000000,
-      "percentage": 50,
-      "cap": 1500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222978982133792&signature=d03796013c19f415add59303019720dbbb06e71d13f541688cdfb389c0ffe085",
-      "promotion_id": 1222978982133792,
-      "signature": "d03796013c19f415add59303019720dbbb06e71d13f541688cdfb389c0ffe085",
-      "claim_end_time": 1755622799,
-      "end_time": 1755622799,
-      "has_expired": true
-    }
-  ],
-  "12973058184": [
-    {
-      "start_time": 1754636400,
-      "claim_start_time": 1754636400,
-      "voucher_code": "CBXF20200K0808A",
-      "min_spend": 10000000000,
-      "percentage": 20,
-      "cap": 20000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217821221339136&signature=f009ad4b855082e476344dd5f054f081cb2aaae71ee0167aef33293e60f6d2fd",
-      "promotion_id": 1217821221339136,
-      "signature": "f009ad4b855082e476344dd5f054f081cb2aaae71ee0167aef33293e60f6d2fd",
-      "claim_end_time": 1754672399,
-      "end_time": 1754672399,
-      "has_expired": true
-    }
-  ],
-  "12973056904": [
-    {
-      "start_time": 1755104400,
-      "claim_start_time": 1755104400,
-      "voucher_code": "DISKONPICKUP380",
-      "min_spend": 0,
-      "percentage": 12,
-      "cap": 5000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217950389125136&signature=add258fb3ccf9aa71f15db65000f393d340a2d498a5c86a21db206ca1b6cae3b",
-      "promotion_id": 1217950389125136,
-      "signature": "add258fb3ccf9aa71f15db65000f393d340a2d498a5c86a21db206ca1b6cae3b",
-      "claim_end_time": 1755190799,
-      "end_time": 1755190799,
-      "has_expired": true
-    }
-  ],
+  "12972548488": [],
+  "12972544392": [],
+  "12972569096": [],
+  "12973058184": [],
+  "12973056904": [],
   "12972549640": [],
-  "12972569992": [
-    {
-      "start_time": 1755709200,
-      "claim_start_time": 1755709200,
-      "voucher_code": "DAHSYATPU608",
-      "min_spend": 3000000000,
-      "percentage": 50,
-      "cap": 1500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222978964963344&signature=df5757ff5218b19677b370759f732e547f24acef4df9a4a977e5b243992f1c0e",
-      "promotion_id": 1222978964963344,
-      "signature": "df5757ff5218b19677b370759f732e547f24acef4df9a4a977e5b243992f1c0e",
-      "claim_end_time": 1755795599,
-      "end_time": 1755795599,
-      "has_expired": true
-    }
-  ],
+  "12972569992": [],
   "12968735112": [],
   "12972562440": [
     {
@@ -7453,20 +5737,6 @@
     {
       "start_time": 1755363600,
       "claim_start_time": 0,
-      "voucher_code": "SVC-1206497137016900",
-      "min_spend": 2000000000,
-      "percentage": 80,
-      "cap": 1700000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1206497137016900&signature=6966ea9cf5cdc3ab424814f7d2615ebed2e2a19b6752b9d445ff3195a0ef6954",
-      "promotion_id": 1206497137016900,
-      "signature": "6966ea9cf5cdc3ab424814f7d2615ebed2e2a19b6752b9d445ff3195a0ef6954",
-      "claim_end_time": 1755449999,
-      "end_time": 1755449999,
-      "has_expired": true
-    },
-    {
-      "start_time": 1755363600,
-      "claim_start_time": 0,
       "voucher_code": "SVC-1206497137672204",
       "min_spend": 2000000000,
       "percentage": 80,
@@ -7759,52 +6029,8 @@
       "has_expired": true
     }
   ],
-  "12972576136": [
-    {
-      "start_time": 1755694800,
-      "claim_start_time": 1755694800,
-      "voucher_code": "LIVE-732767171328868352",
-      "min_spend": 2000000000,
-      "percentage": 50,
-      "cap": 1000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222211180576796&signature=8765615fba11dd8b1bc4ab29e202395cae3260a1eb18c915b1399a74fa3628f5",
-      "promotion_id": 1222211180576796,
-      "signature": "8765615fba11dd8b1bc4ab29e202395cae3260a1eb18c915b1399a74fa3628f5",
-      "claim_end_time": 1755709140,
-      "end_time": 1755709140,
-      "has_expired": true
-    },
-    {
-      "start_time": 1755694800,
-      "claim_start_time": 1755694800,
-      "voucher_code": "LIVE-732777264418127872",
-      "min_spend": 10000000000,
-      "percentage": 15,
-      "cap": 3000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222221037191196&signature=ab92906526a4f7d21fd071f56cc6c4ece5426544a0e7a57afce5602dfddc00ab",
-      "promotion_id": 1222221037191196,
-      "signature": "ab92906526a4f7d21fd071f56cc6c4ece5426544a0e7a57afce5602dfddc00ab",
-      "claim_end_time": 1755709140,
-      "end_time": 1755709140,
-      "has_expired": true
-    }
-  ],
-  "12973088904": [
-    {
-      "start_time": 1755709200,
-      "claim_start_time": 1755709200,
-      "voucher_code": "FBTB721",
-      "min_spend": 500000000,
-      "percentage": 100,
-      "cap": 500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1220644742643712&signature=a6eda8f70e68150f9d32f2673ac73b5e986bf729c2bdcf93e7e6e0bf7b3efe39",
-      "promotion_id": 1220644742643712,
-      "signature": "a6eda8f70e68150f9d32f2673ac73b5e986bf729c2bdcf93e7e6e0bf7b3efe39",
-      "claim_end_time": 1755795540,
-      "end_time": 1755795540,
-      "has_expired": true
-    }
-  ],
+  "12972576136": [],
+  "12973088904": [],
   "12973072904": [
     {
       "start_time": 1755601200,
@@ -7821,38 +6047,8 @@
       "has_expired": false
     }
   ],
-  "12972476936": [
-    {
-      "start_time": 1754586000,
-      "claim_start_time": 1753981200,
-      "voucher_code": "CBX995KMN0808",
-      "min_spend": 500000000,
-      "percentage": 99,
-      "cap": 500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1211239024181252&signature=7c4db5ab0d6572a102a9ced6aba71dd34e7bf14fb350c2154d30532e1e3ff633",
-      "promotion_id": 1211239024181252,
-      "signature": "7c4db5ab0d6572a102a9ced6aba71dd34e7bf14fb350c2154d30532e1e3ff633",
-      "claim_end_time": 1754587799,
-      "end_time": 1754587799,
-      "has_expired": true
-    }
-  ],
-  "12972579720": [
-    {
-      "start_time": 1755583380,
-      "claim_start_time": 1755583380,
-      "voucher_code": "NU4DCNUZ5010AUG2025A",
-      "min_spend": 1000000000,
-      "percentage": 50,
-      "cap": 1000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222993636769792&signature=e0586c2a7fadbe595b3408d230f1c06dfe9aeaca59623771ca2dd9e9cdfd2f89",
-      "promotion_id": 1222993636769792,
-      "signature": "e0586c2a7fadbe595b3408d230f1c06dfe9aeaca59623771ca2dd9e9cdfd2f89",
-      "claim_end_time": 1756054680,
-      "end_time": 1756054680,
-      "has_expired": false
-    }
-  ],
+  "12972476936": [],
+  "12972579720": [],
   "12973077384": [
     {
       "start_time": 1755795600,
@@ -7870,38 +6066,8 @@
     }
   ],
   "12972476424": [],
-  "12973056648": [
-    {
-      "start_time": 1755018000,
-      "claim_start_time": 1755018000,
-      "voucher_code": "DISKONPICKUP374",
-      "min_spend": 0,
-      "percentage": 17,
-      "cap": 5000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217950414290972&signature=79892478eafe6586ee6f21e7adceddcb74137f2f0b54094719478f87569478b0",
-      "promotion_id": 1217950414290972,
-      "signature": "79892478eafe6586ee6f21e7adceddcb74137f2f0b54094719478f87569478b0",
-      "claim_end_time": 1755104399,
-      "end_time": 1755104399,
-      "has_expired": true
-    }
-  ],
-  "12972565512": [
-    {
-      "start_time": 1755450000,
-      "claim_start_time": 1755450000,
-      "voucher_code": "DISKONPICKUP393",
-      "min_spend": 0,
-      "percentage": 25,
-      "cap": 5000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222978973745196&signature=76ac4c755f4227a5abac3f45bbf4e36bdb370f270537f346b4c1db8069803d4e",
-      "promotion_id": 1222978973745196,
-      "signature": "76ac4c755f4227a5abac3f45bbf4e36bdb370f270537f346b4c1db8069803d4e",
-      "claim_end_time": 1755536399,
-      "end_time": 1755536399,
-      "has_expired": true
-    }
-  ],
+  "12973056648": [],
+  "12972565512": [],
   "12972578952": [
     {
       "start_time": 1756141200,
@@ -7916,20 +6082,6 @@
       "claim_end_time": 1756227540,
       "end_time": 1756227540,
       "has_expired": false
-    },
-    {
-      "start_time": 1755709200,
-      "claim_start_time": 0,
-      "voucher_code": "KAOPDTB81",
-      "min_spend": 10000000000,
-      "percentage": 10,
-      "cap": 1000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1220026292125704&signature=6cb2310a429e758400613cb432873534af679f2e0b020d9c41f6d12485bc9d39",
-      "promotion_id": 1220026292125704,
-      "signature": "6cb2310a429e758400613cb432873534af679f2e0b020d9c41f6d12485bc9d39",
-      "claim_end_time": 1755795540,
-      "end_time": 1755795540,
-      "has_expired": true
     },
     {
       "start_time": 1755709200,
@@ -8046,164 +6198,8 @@
       "has_expired": false
     }
   ],
-  "12972547208": [
-    {
-      "start_time": 1755190800,
-      "claim_start_time": 1755190800,
-      "voucher_code": "PDAM15AUGF0N",
-      "min_spend": 10000000000,
-      "percentage": 2,
-      "cap": 3500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212788567851008&signature=9a9c61a10a17f7e06078ad1f0d0b58a54d4455b3823db558285a26cba1c2b271",
-      "promotion_id": 1212788567851008,
-      "signature": "9a9c61a10a17f7e06078ad1f0d0b58a54d4455b3823db558285a26cba1c2b271",
-      "claim_end_time": 1755795540,
-      "end_time": 1755795540,
-      "has_expired": true
-    },
-    {
-      "start_time": 1755190800,
-      "claim_start_time": 1755190800,
-      "voucher_code": "TELKOM15AUG9GI",
-      "min_spend": 5000000000,
-      "percentage": 2,
-      "cap": 3500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212788568375296&signature=85492ac2fa5a3acc25a28da19da80e9acafe47c5a6375f78e8348f27faa07d14",
-      "promotion_id": 1212788568375296,
-      "signature": "85492ac2fa5a3acc25a28da19da80e9acafe47c5a6375f78e8348f27faa07d14",
-      "claim_end_time": 1755795540,
-      "end_time": 1755795540,
-      "has_expired": true
-    },
-    {
-      "start_time": 1755190800,
-      "claim_start_time": 1755190800,
-      "voucher_code": "BPJS15AUGCL8",
-      "min_spend": 10000000000,
-      "percentage": 2,
-      "cap": 3500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212788567982080&signature=d93f1c85eb6fb3856f7259805d031456e6d6301c6daf343013bb4e16815449c2",
-      "promotion_id": 1212788567982080,
-      "signature": "d93f1c85eb6fb3856f7259805d031456e6d6301c6daf343013bb4e16815449c2",
-      "claim_end_time": 1755795540,
-      "end_time": 1755795540,
-      "has_expired": true
-    },
-    {
-      "start_time": 1755190800,
-      "claim_start_time": 1755190800,
-      "voucher_code": "PLN15AUGW1D",
-      "min_spend": 10000000000,
-      "percentage": 2,
-      "cap": 3500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212788567851012&signature=589a14ee5726c96277b9fb9ee4b92fed20321af13f290b3b316b29d006ee3edb",
-      "promotion_id": 1212788567851012,
-      "signature": "589a14ee5726c96277b9fb9ee4b92fed20321af13f290b3b316b29d006ee3edb",
-      "claim_end_time": 1755795540,
-      "end_time": 1755795540,
-      "has_expired": true
-    },
-    {
-      "start_time": 1755190800,
-      "claim_start_time": 1755190800,
-      "voucher_code": "PASCA15AUGT8U",
-      "min_spend": 10000000000,
-      "percentage": 1,
-      "cap": 3500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212788567982084&signature=a9b74ed7626340f3960798e9879e10fb549824abcd2fdf2dae7880b91fcce4c9",
-      "promotion_id": 1212788567982084,
-      "signature": "a9b74ed7626340f3960798e9879e10fb549824abcd2fdf2dae7880b91fcce4c9",
-      "claim_end_time": 1755795540,
-      "end_time": 1755795540,
-      "has_expired": true
-    },
-    {
-      "start_time": 1755190800,
-      "claim_start_time": 1755190800,
-      "voucher_code": "TVKABEL15AUGNF4",
-      "min_spend": 10000000000,
-      "percentage": 1,
-      "cap": 3500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212788568375300&signature=b40ec24c0ab3d29df22c0496a19d753e2c9466c1712ef3082d280797f9909136",
-      "promotion_id": 1212788568375300,
-      "signature": "b40ec24c0ab3d29df22c0496a19d753e2c9466c1712ef3082d280797f9909136",
-      "claim_end_time": 1755795540,
-      "end_time": 1755795540,
-      "has_expired": true
-    },
-    {
-      "start_time": 1755190800,
-      "claim_start_time": 1755190800,
-      "voucher_code": "PULSA15AUGT0O",
-      "min_spend": 2500000000,
-      "percentage": 2,
-      "cap": 5000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212788567982088&signature=b8639ad5ab424d95aa621c59560e8fea71d911a93a01b5e5a407debc025d23cf",
-      "promotion_id": 1212788567982088,
-      "signature": "b8639ad5ab424d95aa621c59560e8fea71d911a93a01b5e5a407debc025d23cf",
-      "claim_end_time": 1755795540,
-      "end_time": 1755795540,
-      "has_expired": true
-    },
-    {
-      "start_time": 1755190800,
-      "claim_start_time": 1755190800,
-      "voucher_code": "PESAWAT15AUGO2O",
-      "min_spend": 50000000000,
-      "percentage": 1,
-      "cap": 50000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212788576239616&signature=c6d20c31668fc6032a6a93254aac350b833ac8dace9caea05941b64a872b41e8",
-      "promotion_id": 1212788576239616,
-      "signature": "c6d20c31668fc6032a6a93254aac350b833ac8dace9caea05941b64a872b41e8",
-      "claim_end_time": 1755795540,
-      "end_time": 1755795540,
-      "has_expired": true
-    },
-    {
-      "start_time": 1755190800,
-      "claim_start_time": 1755190800,
-      "voucher_code": "EMONEY15AUG6VM",
-      "min_spend": 5000000000,
-      "percentage": 2,
-      "cap": 1000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212788576632832&signature=58e539983d61a089198c047a2e69cd092d063204f2687a735fededaf4632bc88",
-      "promotion_id": 1212788576632832,
-      "signature": "58e539983d61a089198c047a2e69cd092d063204f2687a735fededaf4632bc88",
-      "claim_end_time": 1755795540,
-      "end_time": 1755795540,
-      "has_expired": true
-    }
-  ],
-  "12973102600": [
-    {
-      "start_time": 1755622800,
-      "claim_start_time": 1755622800,
-      "voucher_code": "SPLDAYW3AUG",
-      "min_spend": 15000000000,
-      "percentage": 10,
-      "cap": 50000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1224996467523584&signature=a3e860bbdd626448689733a40b1080d1bfc137f26c9c4ee2d522ea8d2ad8620f",
-      "promotion_id": 1224996467523584,
-      "signature": "a3e860bbdd626448689733a40b1080d1bfc137f26c9c4ee2d522ea8d2ad8620f",
-      "claim_end_time": 1755709140,
-      "end_time": 1755709140,
-      "has_expired": true
-    },
-    {
-      "start_time": 1755622800,
-      "claim_start_time": 1755622800,
-      "voucher_code": "SPLDAYW3AUGLVL",
-      "min_spend": 10000000000,
-      "percentage": 20,
-      "cap": 10000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1224996475912192&signature=a0ba39193b9b0231595c3eaebe52b4fae6405740f63d0976e6575952c5ef1ba6",
-      "promotion_id": 1224996475912192,
-      "signature": "a0ba39193b9b0231595c3eaebe52b4fae6405740f63d0976e6575952c5ef1ba6",
-      "claim_end_time": 1755709140,
-      "end_time": 1755709140,
-      "has_expired": true
-    }
-  ],
+  "12972547208": [],
+  "12973102600": [],
   "12973104904": [
     {
       "start_time": 1756054800,
@@ -8237,84 +6233,10 @@
     }
   ],
   "12972553224": [],
-  "12973057032": [
-    {
-      "start_time": 1754586000,
-      "claim_start_time": 1754586000,
-      "voucher_code": "DAHSYATPU530",
-      "min_spend": 3000000000,
-      "percentage": 50,
-      "cap": 1500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212699807989776&signature=56824c22034dd74629252c09e9ee9fbe86cb89719c37e521a76806716febbf30",
-      "promotion_id": 1212699807989776,
-      "signature": "56824c22034dd74629252c09e9ee9fbe86cb89719c37e521a76806716febbf30",
-      "claim_end_time": 1754672399,
-      "end_time": 1754672399,
-      "has_expired": true
-    }
-  ],
-  "12972550920": [
-    {
-      "start_time": 1755176400,
-      "claim_start_time": 1755176400,
-      "voucher_code": "LIVE-727551740968174080",
-      "min_spend": 2000000000,
-      "percentage": 50,
-      "cap": 1000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217117987553284&signature=6c40086f5f50ab3705bc95c8bcb4d17ea39f1aad9f09130cd4eb25b041c40479",
-      "promotion_id": 1217117987553284,
-      "signature": "6c40086f5f50ab3705bc95c8bcb4d17ea39f1aad9f09130cd4eb25b041c40479",
-      "claim_end_time": 1755190740,
-      "end_time": 1755190740,
-      "has_expired": true
-    },
-    {
-      "start_time": 1755176400,
-      "claim_start_time": 1755176400,
-      "voucher_code": "LIVE-727547634962661376",
-      "min_spend": 10000000000,
-      "percentage": 15,
-      "cap": 3000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217113977536512&signature=5ffed60c8e12a18f0242443b38da8b9c47af3aa10be5ea24121b55cf9e79fe9e",
-      "promotion_id": 1217113977536512,
-      "signature": "5ffed60c8e12a18f0242443b38da8b9c47af3aa10be5ea24121b55cf9e79fe9e",
-      "claim_end_time": 1755190740,
-      "end_time": 1755190740,
-      "has_expired": true
-    }
-  ],
-  "12972566152": [
-    {
-      "start_time": 1755709200,
-      "claim_start_time": 1755709200,
-      "voucher_code": "DISKONPICKUP406",
-      "min_spend": 0,
-      "percentage": 17,
-      "cap": 5000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222978973089796&signature=586c4756526dd485a4114f462fabb823b065cc0cbd6876fc9817f8a7cecd4d51",
-      "promotion_id": 1222978973089796,
-      "signature": "586c4756526dd485a4114f462fabb823b065cc0cbd6876fc9817f8a7cecd4d51",
-      "claim_end_time": 1755795599,
-      "end_time": 1755795599,
-      "has_expired": true
-    }
-  ],
-  "12972545032": [
-    {
-      "start_time": 1755018000,
-      "claim_start_time": 1755018000,
-      "voucher_code": "DISKONPICKUP376",
-      "min_spend": 0,
-      "percentage": 12,
-      "cap": 5000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217950414290992&signature=fc2f28d2e4a343af161fc8a7f76a22808cadaa3be97c29ede046748b55ba4d9b",
-      "promotion_id": 1217950414290992,
-      "signature": "fc2f28d2e4a343af161fc8a7f76a22808cadaa3be97c29ede046748b55ba4d9b",
-      "claim_end_time": 1755104399,
-      "end_time": 1755104399,
-      "has_expired": true
-    }
-  ],
+  "12973057032": [],
+  "12972550920": [],
+  "12972566152": [],
+  "12972545032": [],
   "12972563464": [
     {
       "start_time": 1755450000,
@@ -8437,114 +6359,12 @@
       "has_expired": false
     }
   ],
-  "12972557320": [
-    {
-      "start_time": 1754240400,
-      "claim_start_time": 1754240400,
-      "voucher_code": "JAJANLAGI94",
-      "min_spend": 0,
-      "percentage": 50,
-      "cap": 1000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212699808645184&signature=a77801770df25d2c27cba5e312ed5f19e6c929e415ddd4cff025040578117488",
-      "promotion_id": 1212699808645184,
-      "signature": "a77801770df25d2c27cba5e312ed5f19e6c929e415ddd4cff025040578117488",
-      "claim_end_time": 1754845199,
-      "end_time": 1754845199,
-      "has_expired": true
-    }
-  ],
-  "12973061256": [
-    {
-      "start_time": 1754240400,
-      "claim_start_time": 1754240400,
-      "voucher_code": "XTRA10100RB0804",
-      "min_spend": 7000000000,
-      "percentage": 10,
-      "cap": 10000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212697090605056&signature=caa896f5f630ba0a5a6267228f19ee86c5e1b3c25300c816a827c580e74eaa19",
-      "promotion_id": 1212697090605056,
-      "signature": "caa896f5f630ba0a5a6267228f19ee86c5e1b3c25300c816a827c580e74eaa19",
-      "claim_end_time": 1754845199,
-      "end_time": 1754845199,
-      "has_expired": true
-    },
-    {
-      "start_time": 1754240400,
-      "claim_start_time": 1754240400,
-      "voucher_code": "DC10100RB0804OS",
-      "min_spend": 20000000000,
-      "percentage": 10,
-      "cap": 10000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212696553209856&signature=380c37cf33cfe022a53756f32eb3b309e8ca8933828936be06df541fae705070",
-      "promotion_id": 1212696553209856,
-      "signature": "380c37cf33cfe022a53756f32eb3b309e8ca8933828936be06df541fae705070",
-      "claim_end_time": 1754845199,
-      "end_time": 1754845199,
-      "has_expired": true
-    },
-    {
-      "start_time": 1754499600,
-      "claim_start_time": 1754499600,
-      "voucher_code": "FFTEST87",
-      "min_spend": 2000000000,
-      "percentage": 15,
-      "cap": 1000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1214853600264196&signature=66e05f5c17ef7ff31596b2ad02f302aeb77930854434c4249518e63d50bdfc42",
-      "promotion_id": 1214853600264196,
-      "signature": "66e05f5c17ef7ff31596b2ad02f302aeb77930854434c4249518e63d50bdfc42",
-      "claim_end_time": 1754585940,
-      "end_time": 1754585940,
-      "has_expired": true
-    },
-    {
-      "start_time": 1753981200,
-      "claim_start_time": 1753981200,
-      "voucher_code": "TELCOPLN08G9U",
-      "min_spend": 0,
-      "percentage": 80,
-      "cap": 200000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1209892317184000&signature=801d2b0daf874e789cb067d3171f049dfebc717660dc144bfc00216a448564d6",
-      "promotion_id": 1209892317184000,
-      "signature": "801d2b0daf874e789cb067d3171f049dfebc717660dc144bfc00216a448564d6",
-      "claim_end_time": 1754758740,
-      "end_time": 1754758740,
-      "has_expired": true
-    }
-  ],
+  "12972557320": [],
+  "12973061256": [],
   "12972568712": [],
-  "12972555784": [
-    {
-      "start_time": 1754586000,
-      "claim_start_time": 1753981200,
-      "voucher_code": "MRVCCB121JT1AUG",
-      "min_spend": 20000000000,
-      "percentage": 6,
-      "cap": 100000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1211391747309568&signature=459050ea0a1ded75a9c87b52a08e5bd73180feb5b4d410a86c09ce6868d5c10d",
-      "promotion_id": 1211391747309568,
-      "signature": "459050ea0a1ded75a9c87b52a08e5bd73180feb5b4d410a86c09ce6868d5c10d",
-      "claim_end_time": 1754618399,
-      "end_time": 1754618399,
-      "has_expired": true
-    }
-  ],
+  "12972555784": [],
   "12972552968": [],
-  "12972550024": [
-    {
-      "start_time": 1755364620,
-      "claim_start_time": 1755364620,
-      "voucher_code": "DD1745RB1TKZ",
-      "min_spend": 4500000000,
-      "percentage": 17,
-      "cap": 4500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1220674455355392&signature=4cf3725ec9c678087837ebfca0e261d8bc3bbe11d2fdf2256891318b4875ad7b",
-      "promotion_id": 1220674455355392,
-      "signature": "4cf3725ec9c678087837ebfca0e261d8bc3bbe11d2fdf2256891318b4875ad7b",
-      "claim_end_time": 1755406740,
-      "end_time": 1755406740,
-      "has_expired": true
-    }
-  ],
+  "12972550024": [],
   "12972479112": [],
   "12972574856": [
     {
@@ -8636,22 +6456,7 @@
       "has_expired": false
     }
   ],
-  "12973056776": [
-    {
-      "start_time": 1754499600,
-      "claim_start_time": 1754499600,
-      "voucher_code": "DAHSYATPU523",
-      "min_spend": 4000000000,
-      "percentage": 50,
-      "cap": 2000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212699791605780&signature=e78d673a362e2a7d3c211360c15c63091222ad1fd64fb9603a9685eb7d7e49c2",
-      "promotion_id": 1212699791605780,
-      "signature": "e78d673a362e2a7d3c211360c15c63091222ad1fd64fb9603a9685eb7d7e49c2",
-      "claim_end_time": 1754585999,
-      "end_time": 1754585999,
-      "has_expired": true
-    }
-  ],
+  "12973056776": [],
   "12972570376": [
     {
       "start_time": 1755882000,
@@ -8668,38 +6473,8 @@
       "has_expired": false
     }
   ],
-  "12972558472": [
-    {
-      "start_time": 1754240400,
-      "claim_start_time": 1754240400,
-      "voucher_code": "DAHSYATPU505",
-      "min_spend": 4000000000,
-      "percentage": 50,
-      "cap": 2000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212699799339020&signature=a43caf985a225c535f2f5e82043c391537184ecca2bd322b2d94aabac24fa164",
-      "promotion_id": 1212699799339020,
-      "signature": "a43caf985a225c535f2f5e82043c391537184ecca2bd322b2d94aabac24fa164",
-      "claim_end_time": 1754326799,
-      "end_time": 1754326799,
-      "has_expired": true
-    }
-  ],
-  "12973057928": [
-    {
-      "start_time": 1754586000,
-      "claim_start_time": 1754586000,
-      "voucher_code": "OSB15100K0808WD",
-      "min_spend": 10000000000,
-      "percentage": 15,
-      "cap": 10000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217181455368196&signature=da5017473ebd861cfcd9599095d5d7a52ef76e9e2949ee645ede4a17ba3ee974",
-      "promotion_id": 1217181455368196,
-      "signature": "da5017473ebd861cfcd9599095d5d7a52ef76e9e2949ee645ede4a17ba3ee974",
-      "claim_end_time": 1754672399,
-      "end_time": 1754672399,
-      "has_expired": true
-    }
-  ],
+  "12972558472": [],
+  "12973057928": [],
   "12973105416": [
     {
       "start_time": 1756083600,
@@ -8744,146 +6519,13 @@
       "has_expired": false
     }
   ],
-  "12972553480": [
-    {
-      "start_time": 1755450000,
-      "claim_start_time": 1755450000,
-      "voucher_code": "DISKONPICKUP395",
-      "min_spend": 0,
-      "percentage": 14,
-      "cap": 5000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222978973483060&signature=b14bbd55dcd86efa1ae45ad3586853990f37e0d40953d10a52f79ddb4c829ba1",
-      "promotion_id": 1222978973483060,
-      "signature": "b14bbd55dcd86efa1ae45ad3586853990f37e0d40953d10a52f79ddb4c829ba1",
-      "claim_end_time": 1755536399,
-      "end_time": 1755536399,
-      "has_expired": true
-    }
-  ],
-  "12973079944": [
-    {
-      "start_time": 1755496800,
-      "claim_start_time": 1755496800,
-      "voucher_code": "MRVFASH100RB18AUG",
-      "min_spend": 10000000000,
-      "percentage": 10,
-      "cap": 10000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1225013990670336&signature=d12083e7c3520785e95167e2041fce1c0f0c84fdd483228ddb85965de5650e6e",
-      "promotion_id": 1225013990670336,
-      "signature": "d12083e7c3520785e95167e2041fce1c0f0c84fdd483228ddb85965de5650e6e",
-      "claim_end_time": 1755536399,
-      "end_time": 1755536399,
-      "has_expired": true
-    }
-  ],
-  "12972560904": [
-    {
-      "start_time": 1754888400,
-      "claim_start_time": 1754888400,
-      "voucher_code": "LIVE-727551723821858816",
-      "min_spend": 2000000000,
-      "percentage": 50,
-      "cap": 1000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217117970776064&signature=a5b3fd2e7c5861840167ec61ba274b0f6aa5186e7f617228dddb28302c759eb8",
-      "promotion_id": 1217117970776064,
-      "signature": "a5b3fd2e7c5861840167ec61ba274b0f6aa5186e7f617228dddb28302c759eb8",
-      "claim_end_time": 1754895600,
-      "end_time": 1754895600,
-      "has_expired": true
-    }
-  ],
-  "12973077000": [
-    {
-      "start_time": 1755709200,
-      "claim_start_time": 1755709200,
-      "voucher_code": "JAJANPICKUP204",
-      "min_spend": 10000000000,
-      "percentage": 30,
-      "cap": 10000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222978964701232&signature=9ddda85541193583dab918f5e1b108c605f21867405ebc618691dcfac0e64aa6",
-      "promotion_id": 1222978964701232,
-      "signature": "9ddda85541193583dab918f5e1b108c605f21867405ebc618691dcfac0e64aa6",
-      "claim_end_time": 1755795599,
-      "end_time": 1755795599,
-      "has_expired": true
-    }
-  ],
-  "12972557448": [
-    {
-      "start_time": 1754240400,
-      "claim_start_time": 1754240400,
-      "voucher_code": "JAJANLAGI96",
-      "min_spend": 0,
-      "percentage": 50,
-      "cap": 1500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212699816509444&signature=665fb15d3556b86e70633bc846ff53ff8b19ff4b41162ef3b5dfafc013fb3d50",
-      "promotion_id": 1212699816509444,
-      "signature": "665fb15d3556b86e70633bc846ff53ff8b19ff4b41162ef3b5dfafc013fb3d50",
-      "claim_end_time": 1754845199,
-      "end_time": 1754845199,
-      "has_expired": true
-    }
-  ],
-  "12973073288": [
-    {
-      "start_time": 1755781200,
-      "claim_start_time": 1755781200,
-      "voucher_code": "LIVE-732767171278537216",
-      "min_spend": 2000000000,
-      "percentage": 50,
-      "cap": 1000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222211181232160&signature=a2929553bfcfee8276674dede92181fc6d8cebd86d31d7cdd018872b64268a63",
-      "promotion_id": 1222211181232160,
-      "signature": "a2929553bfcfee8276674dede92181fc6d8cebd86d31d7cdd018872b64268a63",
-      "claim_end_time": 1755795540,
-      "end_time": 1755795540,
-      "has_expired": true
-    },
-    {
-      "start_time": 1755781200,
-      "claim_start_time": 1755781200,
-      "voucher_code": "LIVE-732777264418128384",
-      "min_spend": 10000000000,
-      "percentage": 15,
-      "cap": 3000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222221037584408&signature=f6c10eb3ea69307cdc61b818ce7822d2c09e7a0d1ae2a80d333cc0206051b959",
-      "promotion_id": 1222221037584408,
-      "signature": "f6c10eb3ea69307cdc61b818ce7822d2c09e7a0d1ae2a80d333cc0206051b959",
-      "claim_end_time": 1755795540,
-      "end_time": 1755795540,
-      "has_expired": true
-    }
-  ],
-  "12973079176": [
-    {
-      "start_time": 1755522000,
-      "claim_start_time": 1755522000,
-      "voucher_code": "LIVE-732767162655047680",
-      "min_spend": 2000000000,
-      "percentage": 50,
-      "cap": 1000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222211180576768&signature=441a7fbb51fd363d5e547047e426b0c00551fe806dfc09a118d0b409aac4afab",
-      "promotion_id": 1222211180576768,
-      "signature": "441a7fbb51fd363d5e547047e426b0c00551fe806dfc09a118d0b409aac4afab",
-      "claim_end_time": 1755536340,
-      "end_time": 1755536340,
-      "has_expired": true
-    },
-    {
-      "start_time": 1755522000,
-      "claim_start_time": 1755522000,
-      "voucher_code": "LIVE-732777255912079360",
-      "min_spend": 10000000000,
-      "percentage": 15,
-      "cap": 3000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222221029195804&signature=1d522216948bae9d8be311aeecbc065f3093646d79f997c61b20e40d371ae957",
-      "promotion_id": 1222221029195804,
-      "signature": "1d522216948bae9d8be311aeecbc065f3093646d79f997c61b20e40d371ae957",
-      "claim_end_time": 1755536340,
-      "end_time": 1755536340,
-      "has_expired": true
-    }
-  ],
+  "12972553480": [],
+  "12973079944": [],
+  "12972560904": [],
+  "12973077000": [],
+  "12972557448": [],
+  "12973073288": [],
+  "12973079176": [],
   "12972554888": [],
   "12973079432": [
     {
@@ -9055,87 +6697,12 @@
       "has_expired": true
     }
   ],
-  "12973065352": [
-    {
-      "start_time": 1755536400,
-      "claim_start_time": 1755536400,
-      "voucher_code": "DAHSYATPU595",
-      "min_spend": 4000000000,
-      "percentage": 50,
-      "cap": 2000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222978982133780&signature=1b8c5a9cf595cbddf374ac89d0fa1a3c0b11511f7b9b148a220a79762a7ec9ae",
-      "promotion_id": 1222978982133780,
-      "signature": "1b8c5a9cf595cbddf374ac89d0fa1a3c0b11511f7b9b148a220a79762a7ec9ae",
-      "claim_end_time": 1755622799,
-      "end_time": 1755622799,
-      "has_expired": true
-    }
-  ],
+  "12973065352": [],
   "12972582408": [],
-  "12968735240": [
-    {
-      "start_time": 1753635600,
-      "claim_start_time": 1753635600,
-      "voucher_code": "MRVCCBFASH2550RBJUL8",
-      "min_spend": 10000000000,
-      "percentage": 10,
-      "cap": 5000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1207696096116736&signature=210816302b7692d650d71e30fc41cf282fab931ee0674a73088b77991c5e7106",
-      "promotion_id": 1207696096116736,
-      "signature": "210816302b7692d650d71e30fc41cf282fab931ee0674a73088b77991c5e7106",
-      "claim_end_time": 1754240399,
-      "end_time": 1754240399,
-      "has_expired": true
-    }
-  ],
-  "12973066120": [
-    {
-      "start_time": 1755622800,
-      "claim_start_time": 1755622800,
-      "voucher_code": "JAJANPICKUP201",
-      "min_spend": 6000000000,
-      "percentage": 40,
-      "cap": 3500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222978956705800&signature=78737bc8854a6412a69c07569a6c922c82243e344116343715c83dc60d12536e",
-      "promotion_id": 1222978956705800,
-      "signature": "78737bc8854a6412a69c07569a6c922c82243e344116343715c83dc60d12536e",
-      "claim_end_time": 1755709199,
-      "end_time": 1755709199,
-      "has_expired": true
-    }
-  ],
-  "12972559368": [
-    {
-      "start_time": 1754413200,
-      "claim_start_time": 1754413200,
-      "voucher_code": "DAHSYATPU518",
-      "min_spend": 3000000000,
-      "percentage": 50,
-      "cap": 1500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212699824373820&signature=43c025c67b2c4b67d8ce252bbdd9357ce9a71b3ca032d43e2e25a5032e3c1dce",
-      "promotion_id": 1212699824373820,
-      "signature": "43c025c67b2c4b67d8ce252bbdd9357ce9a71b3ca032d43e2e25a5032e3c1dce",
-      "claim_end_time": 1754499599,
-      "end_time": 1754499599,
-      "has_expired": true
-    }
-  ],
-  "12973059592": [
-    {
-      "start_time": 1755082800,
-      "claim_start_time": 1755082800,
-      "voucher_code": "DD5045RBO5NV",
-      "min_spend": 4500000000,
-      "percentage": 17,
-      "cap": 4500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1216545246953472&signature=9cd0e523564f3f1211604c0d214be58a1f4e3a83108b78f36fb0ca14def69abe",
-      "promotion_id": 1216545246953472,
-      "signature": "9cd0e523564f3f1211604c0d214be58a1f4e3a83108b78f36fb0ca14def69abe",
-      "claim_end_time": 1755104340,
-      "end_time": 1755104340,
-      "has_expired": true
-    }
-  ],
+  "12968735240": [],
+  "12973066120": [],
+  "12972559368": [],
+  "12973059592": [],
   "12968734728": [
     {
       "start_time": 1756054800,
@@ -9152,22 +6719,7 @@
       "has_expired": false
     }
   ],
-  "12972545800": [
-    {
-      "start_time": 1755190800,
-      "claim_start_time": 1755190800,
-      "voucher_code": "JAJANPICKUP191",
-      "min_spend": 6000000000,
-      "percentage": 40,
-      "cap": 3500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217950397120528&signature=017d127418c4bc05324a08681504437fe52bec03db6cf94c03d6585589349a13",
-      "promotion_id": 1217950397120528,
-      "signature": "017d127418c4bc05324a08681504437fe52bec03db6cf94c03d6585589349a13",
-      "claim_end_time": 1755277199,
-      "end_time": 1755277199,
-      "has_expired": true
-    }
-  ],
+  "12972545800": [],
   "12973089544": [
     {
       "start_time": 1755583380,
@@ -9214,56 +6766,11 @@
       "has_expired": false
     }
   ],
-  "12972570888": [
-    {
-      "start_time": 1755406800,
-      "claim_start_time": 1755406800,
-      "voucher_code": "LIVE-727551732361462272",
-      "min_spend": 2000000000,
-      "percentage": 50,
-      "cap": 1000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217117978902528&signature=fb7c35a68fa4b5bac76ab0befc55a1efa8376be386d033f485aa52ccc3df4651",
-      "promotion_id": 1217117978902528,
-      "signature": "fb7c35a68fa4b5bac76ab0befc55a1efa8376be386d033f485aa52ccc3df4651",
-      "claim_end_time": 1755414000,
-      "end_time": 1755414000,
-      "has_expired": true
-    }
-  ],
+  "12972570888": [],
   "12972561800": [],
   "12972558216": [],
-  "12972565256": [
-    {
-      "start_time": 1755450000,
-      "claim_start_time": 1755450000,
-      "voucher_code": "DAHSYATPU591",
-      "min_spend": 3000000000,
-      "percentage": 50,
-      "cap": 1300000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222978973745180&signature=afaa800b594ea9b936ae52003b21c1d4e105a108ccbb6ab9ee65ebf86fc36720",
-      "promotion_id": 1222978973745180,
-      "signature": "afaa800b594ea9b936ae52003b21c1d4e105a108ccbb6ab9ee65ebf86fc36720",
-      "claim_end_time": 1755536399,
-      "end_time": 1755536399,
-      "has_expired": true
-    }
-  ],
-  "12973065480": [
-    {
-      "start_time": 1755536400,
-      "claim_start_time": 1755536400,
-      "voucher_code": "DAHSYATPU597",
-      "min_spend": 3000000000,
-      "percentage": 50,
-      "cap": 1300000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222978981871656&signature=d45c2ff31c6791884adb4499337eeb8020147d6551701a26b946ab8eab08a27d",
-      "promotion_id": 1222978981871656,
-      "signature": "d45c2ff31c6791884adb4499337eeb8020147d6551701a26b946ab8eab08a27d",
-      "claim_end_time": 1755622799,
-      "end_time": 1755622799,
-      "has_expired": true
-    }
-  ],
+  "12972565256": [],
+  "12973065480": [],
   "12968806024": [],
   "12973104776": [
     {
@@ -9297,38 +6804,8 @@
       "has_expired": false
     }
   ],
-  "12973059976": [
-    {
-      "start_time": 1755169200,
-      "claim_start_time": 1755169200,
-      "voucher_code": "DD5045RBAZL4",
-      "min_spend": 4500000000,
-      "percentage": 17,
-      "cap": 4500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1216545255342084&signature=0b93f4259dac86cbc4921dea36ed7338b09a3c9de177829459baf7115eca8656",
-      "promotion_id": 1216545255342084,
-      "signature": "0b93f4259dac86cbc4921dea36ed7338b09a3c9de177829459baf7115eca8656",
-      "claim_end_time": 1755190740,
-      "end_time": 1755190740,
-      "has_expired": true
-    }
-  ],
-  "12972567816": [
-    {
-      "start_time": 1754845200,
-      "claim_start_time": 1754845200,
-      "voucher_code": "JAJANLAGI100",
-      "min_spend": 0,
-      "percentage": 100,
-      "cap": 1200000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217950397251592&signature=eb13876d57dcde8de552e84bc5b78845a4f8f1e37b367be879ccd225debfb922",
-      "promotion_id": 1217950397251592,
-      "signature": "eb13876d57dcde8de552e84bc5b78845a4f8f1e37b367be879ccd225debfb922",
-      "claim_end_time": 1755449999,
-      "end_time": 1755449999,
-      "has_expired": true
-    }
-  ],
+  "12973059976": [],
+  "12972567816": [],
   "12973106184": [
     {
       "start_time": 1756098000,
@@ -9389,22 +6866,7 @@
       "has_expired": false
     }
   ],
-  "12972544904": [
-    {
-      "start_time": 1755018000,
-      "claim_start_time": 1755018000,
-      "voucher_code": "JAJANPICKUP187",
-      "min_spend": 6000000000,
-      "percentage": 40,
-      "cap": 3500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217950413897768&signature=2e9878d80c5aaf95ce5e91ad678c6196bfee70834772fd461031e26a70ac1e7c",
-      "promotion_id": 1217950413897768,
-      "signature": "2e9878d80c5aaf95ce5e91ad678c6196bfee70834772fd461031e26a70ac1e7c",
-      "claim_end_time": 1755104399,
-      "end_time": 1755104399,
-      "has_expired": true
-    }
-  ],
+  "12972544904": [],
   "12972570504": [
     {
       "start_time": 1755882000,
@@ -9421,22 +6883,7 @@
       "has_expired": false
     }
   ],
-  "12973066632": [
-    {
-      "start_time": 1755709200,
-      "claim_start_time": 1755709200,
-      "voucher_code": "DAHSYATPU612",
-      "min_spend": 3000000000,
-      "percentage": 40,
-      "cap": 1300000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222978965094472&signature=b451026a020bf35183180bd859d18852192f2e87339a2a5d1849d7e6a00e1e64",
-      "promotion_id": 1222978965094472,
-      "signature": "b451026a020bf35183180bd859d18852192f2e87339a2a5d1849d7e6a00e1e64",
-      "claim_end_time": 1755795599,
-      "end_time": 1755795599,
-      "has_expired": true
-    }
-  ],
+  "12973066632": [],
   "12972579848": [
     {
       "start_time": 1755583380,
@@ -9468,39 +6915,9 @@
     }
   ],
   "12972568328": [],
-  "12973065608": [
-    {
-      "start_time": 1755536400,
-      "claim_start_time": 1755536400,
-      "voucher_code": "DISKONPICKUP400",
-      "min_spend": 0,
-      "percentage": 12,
-      "cap": 5000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222978989867036&signature=78d5a3c21aac555cdc596931576014b43c4735c9ae6d8bf5c92153af6caa9415",
-      "promotion_id": 1222978989867036,
-      "signature": "78d5a3c21aac555cdc596931576014b43c4735c9ae6d8bf5c92153af6caa9415",
-      "claim_end_time": 1755622799,
-      "end_time": 1755622799,
-      "has_expired": true
-    }
-  ],
+  "12973065608": [],
   "12973083016": [],
-  "12972555400": [
-    {
-      "start_time": 1754586000,
-      "claim_start_time": 1754586000,
-      "voucher_code": "OS12100K0808WD",
-      "min_spend": 10000000000,
-      "percentage": 12,
-      "cap": 10000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1215747129622540&signature=6b42240c54c5aba88259dfee31d6252bf224dee15ebff1d7809c9c16da097e1e",
-      "promotion_id": 1215747129622540,
-      "signature": "6b42240c54c5aba88259dfee31d6252bf224dee15ebff1d7809c9c16da097e1e",
-      "claim_end_time": 1754672399,
-      "end_time": 1754672399,
-      "has_expired": true
-    }
-  ],
+  "12972555400": [],
   "12973073160": [
     {
       "start_time": 1755795600,
@@ -9518,22 +6935,7 @@
     }
   ],
   "12972564872": [],
-  "12972544136": [
-    {
-      "start_time": 1754845200,
-      "claim_start_time": 1754845200,
-      "voucher_code": "DISKONPICKUP368",
-      "min_spend": 0,
-      "percentage": 12,
-      "cap": 5000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217950389125180&signature=0a86748fe067d4db9451e1e70f6d72e4f7bc1cc249dff00e1f4110b6486a7e47",
-      "promotion_id": 1217950389125180,
-      "signature": "0a86748fe067d4db9451e1e70f6d72e4f7bc1cc249dff00e1f4110b6486a7e47",
-      "claim_end_time": 1754931599,
-      "end_time": 1754931599,
-      "has_expired": true
-    }
-  ],
+  "12972544136": [],
   "12973078664": [
     {
       "start_time": 1755583380,
@@ -10553,38 +7955,8 @@
       "has_expired": false
     }
   ],
-  "12972583688": [
-    {
-      "start_time": 1755579600,
-      "claim_start_time": 1755579600,
-      "voucher_code": "LIVE-732767154148999168",
-      "min_spend": 2000000000,
-      "percentage": 50,
-      "cap": 1000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222211164192768&signature=8cf127e88c76ebf537be615a9158acafa489d3d06b5f3b7875ff275ae6bba7e3",
-      "promotion_id": 1222211164192768,
-      "signature": "8cf127e88c76ebf537be615a9158acafa489d3d06b5f3b7875ff275ae6bba7e3",
-      "claim_end_time": 1755586800,
-      "end_time": 1755586800,
-      "has_expired": true
-    }
-  ],
-  "12972567944": [
-    {
-      "start_time": 1754845200,
-      "claim_start_time": 1754845200,
-      "voucher_code": "JAJANLAGI101",
-      "min_spend": 0,
-      "percentage": 100,
-      "cap": 1500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217950397513744&signature=e4db91bb0174388c5f33cd89fcd2204d096af68e90a17887857958d9a63bf6df",
-      "promotion_id": 1217950397513744,
-      "signature": "e4db91bb0174388c5f33cd89fcd2204d096af68e90a17887857958d9a63bf6df",
-      "claim_end_time": 1755449999,
-      "end_time": 1755449999,
-      "has_expired": true
-    }
-  ],
+  "12972583688": [],
+  "12972567944": [],
   "12972563592": [
     {
       "start_time": 1755450000,
@@ -10659,22 +8031,7 @@
       "has_expired": false
     }
   ],
-  "12973059464": [
-    {
-      "start_time": 1755061200,
-      "claim_start_time": 1755061200,
-      "voucher_code": "DD5045RBB5UO",
-      "min_spend": 4500000000,
-      "percentage": 17,
-      "cap": 4500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1216545246298116&signature=55e55488a114766e190942ec5d701c1c17837c18bc55de454e3a87d826ecf839",
-      "promotion_id": 1216545246298116,
-      "signature": "55e55488a114766e190942ec5d701c1c17837c18bc55de454e3a87d826ecf839",
-      "claim_end_time": 1755082740,
-      "end_time": 1755082740,
-      "has_expired": true
-    }
-  ],
+  "12973059464": [],
   "12972560264": [
     {
       "start_time": 1755363600,
@@ -10691,38 +8048,8 @@
       "has_expired": true
     }
   ],
-  "12973064968": [
-    {
-      "start_time": 1754845200,
-      "claim_start_time": 1754845200,
-      "voucher_code": "JAJANLAGI104",
-      "min_spend": 0,
-      "percentage": 100,
-      "cap": 1200000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217950422286356&signature=4c307fe406ef5a1b495c6e0ea23e4e7ae8bde19ad7561bdde49ecc6c144d3ea0",
-      "promotion_id": 1217950422286356,
-      "signature": "4c307fe406ef5a1b495c6e0ea23e4e7ae8bde19ad7561bdde49ecc6c144d3ea0",
-      "claim_end_time": 1755449999,
-      "end_time": 1755449999,
-      "has_expired": true
-    }
-  ],
-  "12972566280": [
-    {
-      "start_time": 1755709200,
-      "claim_start_time": 1755709200,
-      "voucher_code": "DISKONPICKUP408",
-      "min_spend": 0,
-      "percentage": 12,
-      "cap": 5000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222978973483024&signature=b96ff1a5e61f5f74305ff11947f6234cb10497f59f13f1c60085fd10b14a884d",
-      "promotion_id": 1222978973483024,
-      "signature": "b96ff1a5e61f5f74305ff11947f6234cb10497f59f13f1c60085fd10b14a884d",
-      "claim_end_time": 1755795599,
-      "end_time": 1755795599,
-      "has_expired": true
-    }
-  ],
+  "12973064968": [],
+  "12972566280": [],
   "12972571144": [
     {
       "start_time": 1756054800,
@@ -10810,38 +8137,8 @@
     }
   ],
   "12972552840": [],
-  "12973066504": [
-    {
-      "start_time": 1755709200,
-      "claim_start_time": 1755709200,
-      "voucher_code": "DAHSYATPU609",
-      "min_spend": 3000000000,
-      "percentage": 50,
-      "cap": 1300000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222978965094452&signature=3fbdb21e5364d50794e197c25cc95868eaa643f34ba7d92db10a255a97ffaba3",
-      "promotion_id": 1222978965094452,
-      "signature": "3fbdb21e5364d50794e197c25cc95868eaa643f34ba7d92db10a255a97ffaba3",
-      "claim_end_time": 1755795599,
-      "end_time": 1755795599,
-      "has_expired": true
-    }
-  ],
-  "12972569480": [
-    {
-      "start_time": 1755536400,
-      "claim_start_time": 1755536400,
-      "voucher_code": "DISKONPICKUP398",
-      "min_spend": 0,
-      "percentage": 17,
-      "cap": 5000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222978990522372&signature=55f644b005fb8c0216dc63ca118ef2891abc7c6b8d8d5c8a0e8e3cba6c6172ce",
-      "promotion_id": 1222978990522372,
-      "signature": "55f644b005fb8c0216dc63ca118ef2891abc7c6b8d8d5c8a0e8e3cba6c6172ce",
-      "claim_end_time": 1755622799,
-      "end_time": 1755622799,
-      "has_expired": true
-    }
-  ],
+  "12973066504": [],
+  "12972569480": [],
   "12972555144": [
     {
       "start_time": 1755662040,
@@ -10883,20 +8180,6 @@
       "signature": "917d65af34fc07edbd5a8a1551ef98858821742ffe11c3e6aad0470a5a18c69e",
       "claim_end_time": 1755443460,
       "end_time": 1755443460,
-      "has_expired": true
-    },
-    {
-      "start_time": 1755190800,
-      "claim_start_time": 0,
-      "voucher_code": "ANGG00BQO",
-      "min_spend": 0,
-      "percentage": 45,
-      "cap": 500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212974333706240&signature=d875cfe7cf844f2c1dbf1a27710231755dfbe66e2a2a907a44499c82117ef855",
-      "promotion_id": 1212974333706240,
-      "signature": "d875cfe7cf844f2c1dbf1a27710231755dfbe66e2a2a907a44499c82117ef855",
-      "claim_end_time": 1755277140,
-      "end_time": 1755277140,
       "has_expired": true
     },
     {
@@ -11168,20 +8451,6 @@
     {
       "start_time": 1755363600,
       "claim_start_time": 0,
-      "voucher_code": "TRIG17TRI",
-      "min_spend": 1000000000,
-      "percentage": 45,
-      "cap": 450000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1207585349582848&signature=2741aaa261b37a4b8f1d845e9a539291b32b8ec09ab942597d96a20a38aec98a",
-      "promotion_id": 1207585349582848,
-      "signature": "2741aaa261b37a4b8f1d845e9a539291b32b8ec09ab942597d96a20a38aec98a",
-      "claim_end_time": 1755449940,
-      "end_time": 1755449940,
-      "has_expired": true
-    },
-    {
-      "start_time": 1755363600,
-      "claim_start_time": 0,
       "voucher_code": "DAIL17845",
       "min_spend": 17500000000,
       "percentage": 8,
@@ -11280,22 +8549,7 @@
       "has_expired": false
     }
   ],
-  "12972478856": [
-    {
-      "start_time": 1754845200,
-      "claim_start_time": 1754845200,
-      "voucher_code": "COBALATER14",
-      "min_spend": 0,
-      "percentage": 90,
-      "cap": 4500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217950389125132&signature=ade70b54cf671bb6a9ba9b27cd030cd25bd67eb2775ff57fac35f624951eaf6d",
-      "promotion_id": 1217950389125132,
-      "signature": "ade70b54cf671bb6a9ba9b27cd030cd25bd67eb2775ff57fac35f624951eaf6d",
-      "claim_end_time": 1755449999,
-      "end_time": 1755449999,
-      "has_expired": true
-    }
-  ],
+  "12972478856": [],
   "12972548744": [],
   "12973090440": [
     {
@@ -11313,38 +8567,8 @@
       "has_expired": false
     }
   ],
-  "12972585736": [
-    {
-      "start_time": 1755752400,
-      "claim_start_time": 1755752400,
-      "voucher_code": "LIVE-732767154149000192",
-      "min_spend": 2000000000,
-      "percentage": 50,
-      "cap": 1000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222211163799576&signature=81808a5f2c27d16825d79497c83fd91ebe686c477896309f9c14967c90eb7c9c",
-      "promotion_id": 1222211163799576,
-      "signature": "81808a5f2c27d16825d79497c83fd91ebe686c477896309f9c14967c90eb7c9c",
-      "claim_end_time": 1755759600,
-      "end_time": 1755759600,
-      "has_expired": true
-    }
-  ],
-  "12972477192": [
-    {
-      "start_time": 1754586000,
-      "claim_start_time": 1754586000,
-      "voucher_code": "CP8100K0808MN",
-      "min_spend": 10000000000,
-      "percentage": 8,
-      "cap": 10000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1215747138011136&signature=b235c4a19e5817ecb8c9b979846c1ffbec7779265041a14659017c41a9d66dfc",
-      "promotion_id": 1215747138011136,
-      "signature": "b235c4a19e5817ecb8c9b979846c1ffbec7779265041a14659017c41a9d66dfc",
-      "claim_end_time": 1754589599,
-      "end_time": 1754589599,
-      "has_expired": true
-    }
-  ],
+  "12972585736": [],
+  "12972477192": [],
   "12972556552": [],
   "12968805640": [
     {
@@ -11362,82 +8586,9 @@
       "has_expired": false
     }
   ],
-  "12973057160": [
-    {
-      "start_time": 1754586000,
-      "claim_start_time": 1754586000,
-      "voucher_code": "DAHSYATPU532",
-      "min_spend": 4000000000,
-      "percentage": 40,
-      "cap": 2000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212699808514064&signature=6a69e62a96460445538dd65cb334e0c47ad67911a304f89ac9a04172368fae54",
-      "promotion_id": 1212699808514064,
-      "signature": "6a69e62a96460445538dd65cb334e0c47ad67911a304f89ac9a04172368fae54",
-      "claim_end_time": 1754672399,
-      "end_time": 1754672399,
-      "has_expired": true
-    }
-  ],
-  "12972546952": [
-    {
-      "start_time": 1753981200,
-      "claim_start_time": 1753981200,
-      "voucher_code": "SPLXPSWT082HM",
-      "min_spend": 150000000000,
-      "percentage": 5,
-      "cap": 80000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1210612403683328&signature=d420af2eaa6d9982de2c5df29e93e4fec1bc8ee417fd1e2e26fbaa6bbffcf63e",
-      "promotion_id": 1210612403683328,
-      "signature": "d420af2eaa6d9982de2c5df29e93e4fec1bc8ee417fd1e2e26fbaa6bbffcf63e",
-      "claim_end_time": 1756659540,
-      "end_time": 1756659540,
-      "has_expired": false
-    },
-    {
-      "start_time": 1753981200,
-      "claim_start_time": 1753981200,
-      "voucher_code": "SPLXHOTEL08W6D",
-      "min_spend": 35000000000,
-      "percentage": 5,
-      "cap": 80000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1210612404207620&signature=60560165c90bb7a6aeec2ca1d9bf2c597967df38a8a3b6ac6cc1f9c6b9c40d44",
-      "promotion_id": 1210612404207620,
-      "signature": "60560165c90bb7a6aeec2ca1d9bf2c597967df38a8a3b6ac6cc1f9c6b9c40d44",
-      "claim_end_time": 1756659540,
-      "end_time": 1756659540,
-      "has_expired": false
-    },
-    {
-      "start_time": 1753981200,
-      "claim_start_time": 1753981200,
-      "voucher_code": "SPLXKRETABUS082U",
-      "min_spend": 25000000000,
-      "percentage": 5,
-      "cap": 45000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1210612404207624&signature=5b525bda56a2e98839325aae41f6dc86b79983da97cdb9bdee1b01d461fbdf79",
-      "promotion_id": 1210612404207624,
-      "signature": "5b525bda56a2e98839325aae41f6dc86b79983da97cdb9bdee1b01d461fbdf79",
-      "claim_end_time": 1756659540,
-      "end_time": 1756659540,
-      "has_expired": false
-    }
-  ],
-  "12972550152": [
-    {
-      "start_time": 1755407820,
-      "claim_start_time": 1755407820,
-      "voucher_code": "DD1745RBF4GF",
-      "min_spend": 4500000000,
-      "percentage": 17,
-      "cap": 4500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1220674455355396&signature=23edf46a648842b739f4b35f58068b06f2f9b7a82302e0a52bf500805edfc344",
-      "promotion_id": 1220674455355396,
-      "signature": "23edf46a648842b739f4b35f58068b06f2f9b7a82302e0a52bf500805edfc344",
-      "claim_end_time": 1755428340,
-      "end_time": 1755428340,
-      "has_expired": true
-    }
-  ],
+  "12973057160": [],
+  "12972546952": [],
+  "12972550152": [],
   "12973105672": [
     {
       "start_time": 1756054800,
@@ -11482,36 +8633,7 @@
       "has_expired": false
     }
   ],
-  "12972561032": [
-    {
-      "start_time": 1754845200,
-      "claim_start_time": 1754845200,
-      "voucher_code": "LIVE-727552342263595008",
-      "min_spend": 10000000000,
-      "percentage": 12,
-      "cap": 10000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217118574755840&signature=391757f612444c03d963a47b9ee394426c48edd276635a7129dfb3c4fdeedc9c",
-      "promotion_id": 1217118574755840,
-      "signature": "391757f612444c03d963a47b9ee394426c48edd276635a7129dfb3c4fdeedc9c",
-      "claim_end_time": 1755449940,
-      "end_time": 1755449940,
-      "has_expired": true
-    },
-    {
-      "start_time": 1754845200,
-      "claim_start_time": 1754845200,
-      "voucher_code": "LIVE-727553012228161536",
-      "min_spend": 5000000000,
-      "percentage": 5,
-      "cap": 5000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217119228411904&signature=2b1a1f05afe337795a2290f4b8ca0404128313e469a978f7eb28d120b67d301f",
-      "promotion_id": 1217119228411904,
-      "signature": "2b1a1f05afe337795a2290f4b8ca0404128313e469a978f7eb28d120b67d301f",
-      "claim_end_time": 1755449940,
-      "end_time": 1755449940,
-      "has_expired": true
-    }
-  ],
+  "12972561032": [],
   "12973082632": [
     {
       "start_time": 1756126800,
@@ -11600,39 +8722,9 @@
       "has_expired": false
     }
   ],
-  "12972555528": [
-    {
-      "start_time": 1754629200,
-      "claim_start_time": 1754629200,
-      "voucher_code": "CBXFAB20200K0808BU",
-      "min_spend": 10000000000,
-      "percentage": 20,
-      "cap": 20000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1215748110434304&signature=b8472768016d1b4fd42e35439f6ded9cb3d56ef9a04371a98fd83777254a524c",
-      "promotion_id": 1215748110434304,
-      "signature": "b8472768016d1b4fd42e35439f6ded9cb3d56ef9a04371a98fd83777254a524c",
-      "claim_end_time": 1754632799,
-      "end_time": 1754632799,
-      "has_expired": true
-    }
-  ],
+  "12972555528": [],
   "12972479752": [],
-  "12973056392": [
-    {
-      "start_time": 1754931600,
-      "claim_start_time": 1754931600,
-      "voucher_code": "DISKONPICKUP372",
-      "min_spend": 0,
-      "percentage": 12,
-      "cap": 5000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217950405509164&signature=c2816c406394b67b739b670d4da43dd0a0756649e3b6618555fe702c1e9aee41",
-      "promotion_id": 1217950405509164,
-      "signature": "c2816c406394b67b739b670d4da43dd0a0756649e3b6618555fe702c1e9aee41",
-      "claim_end_time": 1755017999,
-      "end_time": 1755017999,
-      "has_expired": true
-    }
-  ],
+  "12973056392": [],
   "12973105800": [
     {
       "start_time": 1756083600,
@@ -11677,22 +8769,7 @@
       "has_expired": false
     }
   ],
-  "12972553864": [
-    {
-      "start_time": 1755536400,
-      "claim_start_time": 1755536400,
-      "voucher_code": "DAHSYATPU598",
-      "min_spend": 4000000000,
-      "percentage": 40,
-      "cap": 2000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222978981740576&signature=8f603e018113e34bd0563682010842a668e751dbee862f6b5456ba45a316d0e2",
-      "promotion_id": 1222978981740576,
-      "signature": "8f603e018113e34bd0563682010842a668e751dbee862f6b5456ba45a316d0e2",
-      "claim_end_time": 1755622799,
-      "end_time": 1755622799,
-      "has_expired": true
-    }
-  ],
+  "12972553864": [],
   "12973105928": [
     {
       "start_time": 1756116000,
@@ -11823,54 +8900,9 @@
       "has_expired": false
     }
   ],
-  "12973059848": [
-    {
-      "start_time": 1755147600,
-      "claim_start_time": 1755147600,
-      "voucher_code": "DD5045RB5F9E",
-      "min_spend": 4500000000,
-      "percentage": 17,
-      "cap": 4500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1216545255342080&signature=36208dd809fed68b22dc2d65544c83491d8ebab9f717957017fabd62cf65b2e1",
-      "promotion_id": 1216545255342080,
-      "signature": "36208dd809fed68b22dc2d65544c83491d8ebab9f717957017fabd62cf65b2e1",
-      "claim_end_time": 1755169140,
-      "end_time": 1755169140,
-      "has_expired": true
-    }
-  ],
-  "12972477064": [
-    {
-      "start_time": 1754629200,
-      "claim_start_time": 1753981200,
-      "voucher_code": "SHOPEE88",
-      "min_spend": 500000000,
-      "percentage": 99,
-      "cap": 500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1211283106971648&signature=ba2289e43d012ee839c4ea9ea5aee88035659ca1a2ddeafba05ab06029be1097",
-      "promotion_id": 1211283106971648,
-      "signature": "ba2289e43d012ee839c4ea9ea5aee88035659ca1a2ddeafba05ab06029be1097",
-      "claim_end_time": 1754631000,
-      "end_time": 1754631000,
-      "has_expired": true
-    }
-  ],
-  "12973060360": [
-    {
-      "start_time": 1755255600,
-      "claim_start_time": 1755255600,
-      "voucher_code": "DD5045RBWCYR",
-      "min_spend": 4500000000,
-      "percentage": 17,
-      "cap": 4500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1216545263730688&signature=1a1628e73cce186030fef4e57ecd6cc7170de09d46d1fd63b757fc125b3bd15e",
-      "promotion_id": 1216545263730688,
-      "signature": "1a1628e73cce186030fef4e57ecd6cc7170de09d46d1fd63b757fc125b3bd15e",
-      "claim_end_time": 1755277140,
-      "end_time": 1755277140,
-      "has_expired": true
-    }
-  ],
+  "12973059848": [],
+  "12972477064": [],
+  "12973060360": [],
   "12968805896": [],
   "12972579976": [
     {
@@ -12004,71 +9036,11 @@
       "has_expired": false
     }
   ],
-  "12973066248": [
-    {
-      "start_time": 1755622800,
-      "claim_start_time": 1755622800,
-      "voucher_code": "DISKONPICKUP403",
-      "min_spend": 0,
-      "percentage": 14,
-      "cap": 5000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222978956574748&signature=5526e2ab971fb1e15069b9d86e8fa0d123daf7823d3aab13a6ea70f07d49ac95",
-      "promotion_id": 1222978956574748,
-      "signature": "5526e2ab971fb1e15069b9d86e8fa0d123daf7823d3aab13a6ea70f07d49ac95",
-      "claim_end_time": 1755709199,
-      "end_time": 1755709199,
-      "has_expired": true
-    }
-  ],
-  "12972545672": [
-    {
-      "start_time": 1754586000,
-      "claim_start_time": 1754586000,
-      "voucher_code": "DAHSYATPU529",
-      "min_spend": 4000000000,
-      "percentage": 50,
-      "cap": 2000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212699807989772&signature=197924c0375ed8e629c9f0283dd9675f748de1c70a996c3018507b89999b8b4c",
-      "promotion_id": 1212699807989772,
-      "signature": "197924c0375ed8e629c9f0283dd9675f748de1c70a996c3018507b89999b8b4c",
-      "claim_end_time": 1754672399,
-      "end_time": 1754672399,
-      "has_expired": true
-    }
-  ],
-  "12973060232": [
-    {
-      "start_time": 1755234000,
-      "claim_start_time": 1755234000,
-      "voucher_code": "DD5045RBVWT5",
-      "min_spend": 4500000000,
-      "percentage": 17,
-      "cap": 4500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1216545263337472&signature=a8cc38a6591124e9cf7c35e0713b4230b6fec9a8c8d08bb0fa73b4bf65bed4eb",
-      "promotion_id": 1216545263337472,
-      "signature": "a8cc38a6591124e9cf7c35e0713b4230b6fec9a8c8d08bb0fa73b4bf65bed4eb",
-      "claim_end_time": 1755255540,
-      "end_time": 1755255540,
-      "has_expired": true
-    }
-  ],
+  "12973066248": [],
+  "12972545672": [],
+  "12973060232": [],
   "12972557960": [],
-  "12968806152": [
-    {
-      "start_time": 1753635600,
-      "claim_start_time": 1753635600,
-      "voucher_code": "FASH5100RB0728",
-      "min_spend": 10000000000,
-      "percentage": 5,
-      "cap": 10000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1207101158998016&signature=0f921fa407c29d8c5b6a2c065c070a749543784b9463a37c5f7b879abaa5f7a2",
-      "promotion_id": 1207101158998016,
-      "signature": "0f921fa407c29d8c5b6a2c065c070a749543784b9463a37c5f7b879abaa5f7a2",
-      "claim_end_time": 1754240399,
-      "end_time": 1754240399,
-      "has_expired": true
-    }
-  ],
+  "12968806152": [],
   "12973103624": [
     {
       "start_time": 1756054800,
@@ -12131,22 +9103,7 @@
       "has_expired": false
     }
   ],
-  "12972544264": [
-    {
-      "start_time": 1754326800,
-      "claim_start_time": 1754326800,
-      "voucher_code": "DAHSYATPU512",
-      "min_spend": 3000000000,
-      "percentage": 50,
-      "cap": 1500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212699816771588&signature=46ab0e125fd33776adaa294d3b12d52c86d1ca345fab2861ef42153783e1edfc",
-      "promotion_id": 1212699816771588,
-      "signature": "46ab0e125fd33776adaa294d3b12d52c86d1ca345fab2861ef42153783e1edfc",
-      "claim_end_time": 1754413199,
-      "end_time": 1754413199,
-      "has_expired": true
-    }
-  ],
+  "12972544264": [],
   "12972567048": [
     {
       "start_time": 1755968400,
@@ -12179,38 +9136,8 @@
       "has_expired": false
     }
   ],
-  "12972570120": [
-    {
-      "start_time": 1755709200,
-      "claim_start_time": 1755709200,
-      "voucher_code": "DISKONPICKUP405",
-      "min_spend": 0,
-      "percentage": 25,
-      "cap": 5000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222978973745156&signature=8d32247b244d1e2db2b67e29411a0d875c591453f4ac2c9541324a686b725426",
-      "promotion_id": 1222978973745156,
-      "signature": "8d32247b244d1e2db2b67e29411a0d875c591453f4ac2c9541324a686b725426",
-      "claim_end_time": 1755795599,
-      "end_time": 1755795599,
-      "has_expired": true
-    }
-  ],
-  "12972569224": [
-    {
-      "start_time": 1755536400,
-      "claim_start_time": 1755536400,
-      "voucher_code": "DAHSYATPU600",
-      "min_spend": 3000000000,
-      "percentage": 40,
-      "cap": 1300000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222978982133820&signature=116401800dc4a96e2d8768604481e7b453211d42323b29f00110e0f3ab610ffb",
-      "promotion_id": 1222978982133820,
-      "signature": "116401800dc4a96e2d8768604481e7b453211d42323b29f00110e0f3ab610ffb",
-      "claim_end_time": 1755622799,
-      "end_time": 1755622799,
-      "has_expired": true
-    }
-  ],
+  "12972570120": [],
+  "12972569224": [],
   "12972573192": [
     {
       "start_time": 1755450000,
@@ -12227,102 +9154,12 @@
       "has_expired": false
     }
   ],
-  "12973056136": [
-    {
-      "start_time": 1754845200,
-      "claim_start_time": 1754845200,
-      "voucher_code": "DISKONPICKUP367",
-      "min_spend": 0,
-      "percentage": 14,
-      "cap": 5000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217950388863000&signature=bd6aa1d1f71c5a08c2c0fe0c07403a11470fcb0c6992f49faf3ca47bf7a55f0b",
-      "promotion_id": 1217950388863000,
-      "signature": "bd6aa1d1f71c5a08c2c0fe0c07403a11470fcb0c6992f49faf3ca47bf7a55f0b",
-      "claim_end_time": 1754931599,
-      "end_time": 1754931599,
-      "has_expired": true
-    }
-  ],
-  "12972559624": [
-    {
-      "start_time": 1754758800,
-      "claim_start_time": 1754758800,
-      "voucher_code": "DAHSYATPU542",
-      "min_spend": 3000000000,
-      "percentage": 50,
-      "cap": 1500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212699790950408&signature=911eb148a69cb87d014ae1c7b73bcfdeead58412b388b9bf8e8803dc2930ac13",
-      "promotion_id": 1212699790950408,
-      "signature": "911eb148a69cb87d014ae1c7b73bcfdeead58412b388b9bf8e8803dc2930ac13",
-      "claim_end_time": 1754845199,
-      "end_time": 1754845199,
-      "has_expired": true
-    }
-  ],
-  "12972563208": [
-    {
-      "start_time": 1755190800,
-      "claim_start_time": 1755018000,
-      "voucher_code": "VIPDAYAUG15K",
-      "min_spend": 1500000000,
-      "percentage": 50,
-      "cap": 1500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1220918094086144&signature=e2a06c3f4837c75d80f32e2c534764505b0003728d93da83ce9cb394f7c1fba0",
-      "promotion_id": 1220918094086144,
-      "signature": "e2a06c3f4837c75d80f32e2c534764505b0003728d93da83ce9cb394f7c1fba0",
-      "claim_end_time": 1755277140,
-      "end_time": 1755277140,
-      "has_expired": true
-    }
-  ],
-  "12973060744": [
-    {
-      "start_time": 1755342000,
-      "claim_start_time": 1755342000,
-      "voucher_code": "DD5045RB5HEQ",
-      "min_spend": 4500000000,
-      "percentage": 17,
-      "cap": 4500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1216545271463940&signature=a19dde505821c3fdbd3bd41849933872a9f7336a1185501a0b85d5102b1e1783",
-      "promotion_id": 1216545271463940,
-      "signature": "a19dde505821c3fdbd3bd41849933872a9f7336a1185501a0b85d5102b1e1783",
-      "claim_end_time": 1755363540,
-      "end_time": 1755363540,
-      "has_expired": true
-    }
-  ],
-  "12972478984": [
-    {
-      "start_time": 1754240400,
-      "claim_start_time": 1754240400,
-      "voucher_code": "JAJANLAGI99",
-      "min_spend": 0,
-      "percentage": 50,
-      "cap": 1500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212699824767016&signature=21858240eb5c9a5bbf7682acbf1d21ea7af176b61a57b269f7a7bda312ad23c8",
-      "promotion_id": 1212699824767016,
-      "signature": "21858240eb5c9a5bbf7682acbf1d21ea7af176b61a57b269f7a7bda312ad23c8",
-      "claim_end_time": 1754845199,
-      "end_time": 1754845199,
-      "has_expired": true
-    }
-  ],
-  "12973057416": [
-    {
-      "start_time": 1755190800,
-      "claim_start_time": 1755190800,
-      "voucher_code": "DISKONPICKUP383",
-      "min_spend": 0,
-      "percentage": 14,
-      "cap": 5000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1217950397251672&signature=a2a963fcd25d6c07acf854eff64f14b0cab5c76ba15ed6185d65ca30e6006da4",
-      "promotion_id": 1217950397251672,
-      "signature": "a2a963fcd25d6c07acf854eff64f14b0cab5c76ba15ed6185d65ca30e6006da4",
-      "claim_end_time": 1755277199,
-      "end_time": 1755277199,
-      "has_expired": true
-    }
-  ],
+  "12973056136": [],
+  "12972559624": [],
+  "12972563208": [],
+  "12973060744": [],
+  "12972478984": [],
+  "12973057416": [],
   "12972570760": [
     {
       "start_time": 1755968400,
@@ -12339,52 +9176,7 @@
       "has_expired": false
     }
   ],
-  "12972559496": [
-    {
-      "start_time": 1754672400,
-      "claim_start_time": 1754672400,
-      "voucher_code": "DAHSYATPU539",
-      "min_spend": 3000000000,
-      "percentage": 40,
-      "cap": 1500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1212699825291288&signature=9fab4acf784e4248af7257da32e8e8892a0591ee87e96eea4763881f0f3c7db4",
-      "promotion_id": 1212699825291288,
-      "signature": "9fab4acf784e4248af7257da32e8e8892a0591ee87e96eea4763881f0f3c7db4",
-      "claim_end_time": 1754758799,
-      "end_time": 1754758799,
-      "has_expired": true
-    }
-  ],
-  "12972565896": [
-    {
-      "start_time": 1755709200,
-      "claim_start_time": 1755709200,
-      "voucher_code": "DAHSYATPU610",
-      "min_spend": 4000000000,
-      "percentage": 40,
-      "cap": 2000000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1222978965356612&signature=ea37ed70c8a59fb4b7150ce6e2a1efb880afac3496b16df6c8b6423e16607080",
-      "promotion_id": 1222978965356612,
-      "signature": "ea37ed70c8a59fb4b7150ce6e2a1efb880afac3496b16df6c8b6423e16607080",
-      "claim_end_time": 1755795599,
-      "end_time": 1755795599,
-      "has_expired": true
-    }
-  ],
-  "12973060488": [
-    {
-      "start_time": 1755277200,
-      "claim_start_time": 1755277200,
-      "voucher_code": "DD5045RBAEBT",
-      "min_spend": 4500000000,
-      "percentage": 17,
-      "cap": 4500000000,
-      "link": "https://shopee.co.id/voucher/details?&evcode=ytta&from_source=ytta&promotionId=1216545263468544&signature=c40694ef232e5dcaebfe28c60536cd53411f6bbdf4e4704a7f7ee5e987458e0e",
-      "promotion_id": 1216545263468544,
-      "signature": "c40694ef232e5dcaebfe28c60536cd53411f6bbdf4e4704a7f7ee5e987458e0e",
-      "claim_end_time": 1755320340,
-      "end_time": 1755320340,
-      "has_expired": true
-    }
-  ]
+  "12972559496": [],
+  "12972565896": [],
+  "12973060488": []
 }
