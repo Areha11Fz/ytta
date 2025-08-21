@@ -143,7 +143,9 @@
                         columns: dtColumns,
                         renderer: 'tailwindcss',
                         scrollX: true,
-                        order: [[headers.indexOf('start_time'), "asc"]]
+                        order: [[headers.indexOf('start_time'), "asc"]],
+                        orderMulti: true,
+                        pageLength: 25
                     });
 
                     // --- FIX FOR ALIGNMENT ISSUE ---
