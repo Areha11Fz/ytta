@@ -52,6 +52,13 @@
         #vouchersTable tbody td {
             transition: background-color 0.15s ease-in-out;
         }
+
+        .dataTables_wrapper .dataTables_paginate .paginate_button.disabled.ellipsis {
+            pointer-events: none;
+            /* Disables all click events */
+            cursor: default;
+            /* Shows the standard cursor, not a pointer */
+        }
     </style>
 
 </head>
