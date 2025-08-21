@@ -28,8 +28,8 @@ for (const [collectionId, collectionData] of Object.entries(vouchers)) {
 
                         // Create a new object with only the required fields
                         const cleanedVoucher = {
-                            claim_start_time: voucherDetails.time_info.claim_start_time,
                             start_time: voucherDetails.time_info.start_time,
+                            claim_start_time: voucherDetails.time_info.claim_start_time,
                             voucher_code: voucherCode,
                             min_spend: voucherDetails.reward_info.min_spend,
                             percentage: voucherDetails.reward_info.percentage,
