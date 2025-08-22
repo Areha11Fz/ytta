@@ -53,11 +53,10 @@
             transition: background-color 0.15s ease-in-out;
         }
 
+        /* Pagination ellipsis fix */
         .dataTables_wrapper .dataTables_paginate .paginate_button.disabled.ellipsis {
             pointer-events: none;
-            /* Disables all click events */
             cursor: default;
-            /* Shows the standard cursor, not a pointer */
         }
     </style>
 
@@ -70,10 +69,18 @@
         <div class="text-center mb-8">
             <h1 class="text-3xl sm:text-4xl font-bold text-white">YTTA Voucher Dashboard</h1>
             <p class="text-gray-400 mt-2">Buat Yang Tau Tau Aja 😁</p>
-            <p class="text-gray-400 mt-2">Tips: Double Click to Copy, Hold Shift to Multi Order</p>
+            <p class="text-gray-400 mt-2 text-sm">(Tips: Double Click to Copy, Hold Shift to Multi Order)</p>
         </div>
 
         <div class="bg-gray-850 shadow-lg rounded-lg p-4 sm:p-6">
+            <!-- NEW: Container for column visibility toggles -->
+            <div class="mb-4 border-b border-gray-700 pb-4">
+                <strong class="text-gray-300 mr-4">Show/Hide Columns:</strong>
+                <div id="column-toggle" class="inline-flex flex-wrap gap-x-4 gap-y-2">
+                    <!-- Checkboxes will be inserted here -->
+                </div>
+            </div>
+
             <table id="vouchersTable" class="display nowrap" style="width:100%">
                 <thead></thead>
                 <tbody></tbody>
@@ -111,12 +118,38 @@
                         return;
                     }
 
+                    // --- NEW: Column Visibility Logic ---
+                    const visibilityStorageKey = 'yttaDashboard_columnVisibility';
+                    const defaultHiddenColumns = ['promotion_id', 'signature', 'has_expired', 'claim_end_time'];
+                    let savedVisibility = JSON.parse(localStorage.getItem(visibilityStorageKey));
+                    let checkboxesHtml = '';
+
                     const headers = Object.keys(activeVouchers[0]);
                     let headerHtml = '<tr>';
-                    const dtColumns = headers.map(key => {
+                    const dtColumns = headers.map((key, index) => {
                         headerHtml += `<th class="text-left p-3">${snakeToTitleCase(key)}</th>`;
-                        const columnDef = { data: key, className: 'p-3' };
 
+                        // Determine if the column should be visible
+                        let isVisible;
+                        if (savedVisibility) {
+                            // Use saved state if it exists
+                            isVisible = savedVisibility[key] !== false; // Default to true if key is missing
+                        } else {
+                            // Use default state for first-time users
+                            isVisible = !defaultHiddenColumns.includes(key);
+                        }
+
+                        // Generate the checkbox for this column
+                        checkboxesHtml += `
+                            <label class="inline-flex items-center space-x-2 cursor-pointer">
+                                <input type="checkbox" data-column-index="${index}" data-column-key="${key}" ${isVisible ? 'checked' : ''} class="form-checkbox h-4 w-4 rounded bg-gray-700 border-gray-600 text-indigo-600 focus:ring-indigo-500">
+                                <span class="text-gray-300 text-sm">${snakeToTitleCase(key)}</span>
+                            </label>
+                        `;
+
+                        const columnDef = { data: key, className: 'p-3', visible: isVisible };
+
+                        // ... (switch statement for renderers is unchanged)
                         switch (key) {
                             case 'link':
                                 columnDef.render = (data) => `<a href="${data}" target="_blank" class="text-indigo-400 hover:text-indigo-300 font-semibold">Claim Voucher</a>`;
@@ -137,47 +170,54 @@
                                 break;
                             case 'has_expired':
                                 columnDef.className += ' text-center';
-                                columnDef.render = (data) => data ? 'Yes' : 'No'; // Simplified for copy/paste
+                                columnDef.render = (data) => data ? 'Yes' : 'No';
                                 break;
                         }
                         return columnDef;
                     });
                     headerHtml += '</tr>';
+
+                    // Inject the generated HTML
+                    $('#column-toggle').html(checkboxesHtml);
                     $('#vouchersTable thead').html(headerHtml);
 
-                    // Initialize DataTables and store its API instance in a variable
                     const table = $('#vouchersTable').DataTable({
                         data: activeVouchers,
-                        columns: dtColumns,
+                        columns: dtColumns, // This now includes the 'visible' property
                         renderer: 'tailwindcss',
                         scrollX: true,
                         order: [[headers.indexOf('start_time'), "asc"]],
                         orderMulti: true,
                         pageLength: 25,
-                        stateSave: true
+                        stateSave: true // Keeps sorting, paging, etc.
                     });
 
-                    // --- FIX FOR ALIGNMENT ISSUE ---
-                    // After initialization, force an adjustment of column widths.
-                    // The setTimeout ensures this runs after the browser has finished its initial render.
-                    setTimeout(function () {
-                        table.columns.adjust();
-                    }, 10);
+                    setTimeout(() => table.columns.adjust(), 10);
 
-                    // Add event listener for double-clicking a cell
+                    // --- NEW: Event Listener for Checkboxes ---
+                    $('#column-toggle').on('change', 'input[type="checkbox"]', function () {
+                        const columnIndex = $(this).data('column-index');
+                        const columnKey = $(this).data('column-key');
+                        const isVisible = $(this).is(':checked');
+
+                        // Toggle the column visibility in the table
+                        table.column(columnIndex).visible(isVisible);
+
+                        // Save the state to localStorage
+                        let currentVisibility = JSON.parse(localStorage.getItem(visibilityStorageKey)) || {};
+                        currentVisibility[columnKey] = isVisible;
+                        localStorage.setItem(visibilityStorageKey, JSON.stringify(currentVisibility));
+                    });
+
+                    // Double-click to copy logic (unchanged)
                     $('#vouchersTable tbody').on('dblclick', 'td', function () {
                         const cell = $(this);
                         const text = cell.text().trim();
-
                         if (text) {
                             navigator.clipboard.writeText(text).then(() => {
                                 cell.addClass('!bg-green-700');
-                                setTimeout(() => {
-                                    cell.removeClass('!bg-green-700');
-                                }, 300);
-                            }).catch(err => {
-                                console.error('Failed to copy text: ', err);
-                            });
+                                setTimeout(() => cell.removeClass('!bg-green-700'), 300);
+                            }).catch(err => console.error('Failed to copy text: ', err));
                         }
                     });
                 },
